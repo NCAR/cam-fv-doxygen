@@ -1,0 +1,15 @@
+<map id="obs_utilities_mod::get_or_fill_real" name="obs_utilities_mod::get_or_fill_real">
+<area shape="rect" id="Node000001" title="get_or_fill_real &#45; subroutine which gets the requested netcdf variable but if it isn&#39;t there,..." alt="" coords="5,104,136,145"/>
+<area shape="rect" id="Node000002" href="$namespacenetcdf__utilities__mod.html#ab84e952e7df4fd6a0770e9fca314b932" title="check return code from previous call. on error, print and stop. if you want to continue after an erro..." alt="" coords="184,104,321,145"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,122,168,122,168,127,136,127"/>
+<area shape="rect" id="Node000003" href="$namespaceutilities__mod.html#a12b6bcff9ee2f6b821e7a01543fb0dfa" title="write to log and/or standard output, messages, warnings, debug, errors" alt="" coords="375,71,503,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="321,109,359,103,360,108,322,115"/>
+<area shape="rect" id="Node000007" href="$namespacenetcdf__utilities__mod.html#ad1aed8fb433368a14c78e5dd6102687f" title="look up and return the filename for this handle" alt="" coords="369,136,509,177"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="322,133,354,139,353,144,321,139"/>
+<area shape="rect" id="Node000004" href="$namespaceutilities__mod.html#a9e688ceaa3cb2caac0a21dcf687d21d6" title="call this routine if you find an error before the logfile has been opened." alt="" coords="560,5,688,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="498,68,549,49,551,54,500,73"/>
+<area shape="rect" id="Node000005" href="$namespaceutilities__mod.html#a19b014d0d1c69eb19cb8e2b5454fb428" title="call this routine if you end up in a function or subroutine here that CANNOT be called before the ini..." alt="" coords="560,71,688,111"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="504,88,545,88,545,94,504,94"/>
+<area shape="rect" id="Node000006" href="$namespaceutilities__mod.html#a54f5adeb1920ae3e09826e1feeb09138" title="if trying to write an unformatted string, like &quot;write(*,*)&quot; to both standard output and the logfile,..." alt="" coords="557,136,691,161"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="505,108,566,128,565,133,503,113"/>
+</map>
