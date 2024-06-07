@@ -1,0 +1,14 @@
+<map id="obs_kind_mod::validate_qty_item_index" name="obs_kind_mod::validate_qty_item_index">
+<area shape="rect" id="Node000001" title="call this routine only where if an index is expected to be valid. (it is a fatal error if not...." alt="" coords="5,71,164,111"/>
+<area shape="rect" id="Node000002" href="$namespaceutilities__mod.html#a12b6bcff9ee2f6b821e7a01543fb0dfa" title="write to log and/or standard output, messages, warnings, debug, errors" alt="" coords="418,71,546,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,85,212,84,370,84,402,85,402,90,370,90,212,90,164,91"/>
+<area shape="rect" id="Node000006" href="$namespaceobs__kind__mod.html#af060f4349ae53618e3f94545107ac87d" title="call this routine only where if an index is expected to be valid. (it is a fatal error if not...." alt="" coords="212,99,370,139"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="164,99,197,104,196,109,164,104"/>
+<area shape="rect" id="Node000003" href="$namespaceutilities__mod.html#a9e688ceaa3cb2caac0a21dcf687d21d6" title="call this routine if you find an error before the logfile has been opened." alt="" coords="597,5,725,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="539,68,588,49,590,54,541,73"/>
+<area shape="rect" id="Node000004" href="$namespaceutilities__mod.html#a19b014d0d1c69eb19cb8e2b5454fb428" title="call this routine if you end up in a function or subroutine here that CANNOT be called before the ini..." alt="" coords="597,71,725,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="547,88,582,88,582,94,547,94"/>
+<area shape="rect" id="Node000005" href="$namespaceutilities__mod.html#a54f5adeb1920ae3e09826e1feeb09138" title="if trying to write an unformatted string, like &quot;write(*,*)&quot; to both standard output and the logfile,..." alt="" coords="594,136,728,161"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="547,109,605,128,603,133,546,114"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="370,105,402,100,403,105,371,110"/>
+</map>
