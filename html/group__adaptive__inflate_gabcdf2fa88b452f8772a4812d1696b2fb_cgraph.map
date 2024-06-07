@@ -1,0 +1,19 @@
+<map id="adaptive_inflate_mod::get_minmax_task_zero" name="adaptive_inflate_mod::get_minmax_task_zero">
+<area shape="rect" id="Node000001" title="Collect the min and max of inflation on task 0 this block handles communicating the min/max local val..." alt="" coords="5,84,170,125"/>
+<area shape="rect" id="Node000002" href="$namespaceensemble__manager__mod.html#acd680bca47a44ef5b88a7beff4843816" title="Return the physical task for my_pe." alt="" coords="218,51,384,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,89,202,84,203,89,171,94"/>
+<area shape="rect" id="Node000003" href="$namespacempi__utilities__mod.html#aacbda19146b5ad3f0a75eb6cbfd57393" title="Collect global min and max values on one task." alt="" coords="236,116,366,157"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="171,114,221,122,220,127,170,119"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="263,51,261,41,267,32,281,26,301,24,323,26,336,33,333,37,321,32,301,29,282,31,270,36,266,42,268,49"/>
+<area shape="rect" id="Node000004" href="$namespaceutilities__mod.html#a12b6bcff9ee2f6b821e7a01543fb0dfa" title="write to log and/or standard output, messages, warnings, debug, errors" alt="" coords="438,71,566,111"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="366,119,422,106,423,111,367,124"/>
+<area shape="rect" id="Node000008" href="$namespacempi__utilities__mod.html#adc06ffeb863472ff64785cbd82cc36d7" title="return our communicator" alt="" coords="432,160,571,201"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="367,148,418,159,416,164,366,153"/>
+<area shape="rect" id="Node000005" href="$namespaceutilities__mod.html#a9e688ceaa3cb2caac0a21dcf687d21d6" title="call this routine if you find an error before the logfile has been opened." alt="" coords="622,5,750,46"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="560,68,612,49,613,54,562,73"/>
+<area shape="rect" id="Node000006" href="$namespaceutilities__mod.html#a19b014d0d1c69eb19cb8e2b5454fb428" title="call this routine if you end up in a function or subroutine here that CANNOT be called before the ini..." alt="" coords="622,71,750,111"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="566,88,607,88,607,94,566,94"/>
+<area shape="rect" id="Node000007" href="$namespaceutilities__mod.html#a54f5adeb1920ae3e09826e1feeb09138" title="if trying to write an unformatted string, like &quot;write(*,*)&quot; to both standard output and the logfile,..." alt="" coords="619,136,753,161"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="567,108,629,128,627,133,565,113"/>
+<area shape="poly" id="edge9_Node000008_Node000008" title=" " alt="" coords="466,160,465,150,470,141,483,135,502,133,522,136,534,142,531,147,520,141,502,139,484,141,474,145,470,151,472,159"/>
+</map>

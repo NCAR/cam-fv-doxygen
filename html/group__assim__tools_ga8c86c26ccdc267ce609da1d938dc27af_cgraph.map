@@ -1,0 +1,15 @@
+<map id="assim_tools_mod::start_timer" name="assim_tools_mod::start_timer">
+<area shape="rect" id="Node000001" title="wrappers for timers" alt="" coords="5,39,163,79"/>
+<area shape="rect" id="Node000002" href="$namespacempi__utilities__mod.html#ab4ac2406ce8edd642120789bf7096867" title="start a time block. call with different argument to start multiple or nested timers...." alt="" coords="211,5,341,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,43,195,37,196,42,163,48"/>
+<area shape="rect" id="Node000003" href="$namespacempi__utilities__mod.html#a19228477ddb48773bf4fb3858c997d82" title="Synchronize all tasks. This subroutine does not return until all tasks execute this line of code." alt="" coords="211,71,341,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,69,196,75,195,80,162,75"/>
+<area shape="rect" id="Node000004" href="$namespaceutilities__mod.html#a12b6bcff9ee2f6b821e7a01543fb0dfa" title="write to log and/or standard output, messages, warnings, debug, errors" alt="" coords="389,71,517,111"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="341,88,373,88,373,94,341,94"/>
+<area shape="rect" id="Node000005" href="$namespaceutilities__mod.html#a9e688ceaa3cb2caac0a21dcf687d21d6" title="call this routine if you find an error before the logfile has been opened." alt="" coords="568,5,696,46"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="510,68,559,49,561,54,512,73"/>
+<area shape="rect" id="Node000006" href="$namespaceutilities__mod.html#a19b014d0d1c69eb19cb8e2b5454fb428" title="call this routine if you end up in a function or subroutine here that CANNOT be called before the ini..." alt="" coords="568,71,696,111"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="518,88,553,88,553,94,518,94"/>
+<area shape="rect" id="Node000007" href="$namespaceutilities__mod.html#a54f5adeb1920ae3e09826e1feeb09138" title="if trying to write an unformatted string, like &quot;write(*,*)&quot; to both standard output and the logfile,..." alt="" coords="565,136,699,161"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="518,109,576,128,574,133,517,114"/>
+</map>

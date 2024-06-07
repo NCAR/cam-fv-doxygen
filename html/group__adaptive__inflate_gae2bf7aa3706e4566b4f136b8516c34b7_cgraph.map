@@ -1,0 +1,33 @@
+<map id="adaptive_inflate_mod::update_varying_state_space_inflation" name="adaptive_inflate_mod::update_varying_state_space_inflation">
+<area shape="rect" id="Node000001" title="Computes updated inflation mean and inflation sd for varying state space inflation." alt="" coords="5,255,159,311"/>
+<area shape="rect" id="Node000002" href="$group__adaptive__inflate.html#ga4ff3f649d6e9c50dfb7920b778c535d6" title="This routine is given information from an inflate type, scalar values for inflate and inflate_sd,..." alt="" coords="207,263,351,303"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,280,191,280,191,286,159,286"/>
+<area shape="rect" id="Node000003" href="$group__adaptive__inflate.html#ga815a782f7e8184731fbd21b75c1ea54d" title="Uses one of 2 algorithms in references on DART web site to update the distribution of inflation: Ande..." alt="" coords="412,217,556,258"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="351,264,396,254,397,260,352,270"/>
+<area shape="rect" id="Node000014" href="$group__adaptive__inflate.html#ga025d8aecdf86dceec75e7a3fdc3fafb0" title="private accessor routine for the subtype" alt="" coords="399,307,568,347"/>
+<area shape="poly" id="edge16_Node000002_Node000014" title=" " alt="" coords="352,296,384,303,383,308,351,301"/>
+<area shape="rect" id="Node000004" href="$group__adaptive__inflate.html#gaa2c7cf6de80b9ce9525cc86421c343bf" title="Routine to change the Gaussian prior into an inverse gamma (IG). The Gaussian prior is represented by..." alt="" coords="638,5,782,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="493,216,539,139,573,95,615,57,623,51,626,56,618,61,577,99,543,142,497,218"/>
+<area shape="rect" id="Node000005" href="$group__adaptive__inflate.html#ga3fcfff478b341bc1d64a88cfdeef34c4" title="Used to update density by taking approximate gaussian product original routine." alt="" coords="630,95,790,135"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="510,215,558,180,615,146,629,139,632,144,618,151,561,185,513,219"/>
+<area shape="rect" id="Node000006" href="$group__adaptive__inflate.html#gabcf6813c5418b97e5b0456197aaeaa39" title=" " alt="" coords="616,184,804,225"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="556,224,600,218,601,223,557,230"/>
+<area shape="rect" id="Node000007" href="$group__adaptive__inflate.html#ga862f9b9fdd6f7aaf1c31a159c5ab23a5" title="enhanced linear bayes" alt="" coords="638,249,782,290"/>
+<area shape="poly" id="edge8_Node000003_Node000007" title=" " alt="" coords="557,245,623,255,622,260,556,251"/>
+<area shape="rect" id="Node000009" href="$namespaceutilities__mod.html#a12b6bcff9ee2f6b821e7a01543fb0dfa" title="write to log and/or standard output, messages, warnings, debug, errors" alt="" coords="646,380,774,421"/>
+<area shape="poly" id="edge10_Node000003_Node000009" title=" " alt="" coords="553,256,570,269,588,294,595,319,601,342,618,365,634,376,630,380,614,369,596,344,590,320,583,296,566,273,549,261"/>
+<area shape="rect" id="Node000013" href="$group__adaptive__inflate.html#ga002026e534497093424eb4609aa4be0b" title="original linear_bayes routine" alt="" coords="638,315,782,355"/>
+<area shape="poly" id="edge14_Node000003_Node000013" title=" " alt="" coords="543,256,570,269,594,284,618,299,632,306,630,311,615,304,591,289,567,273,541,261"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="670,95,668,85,674,76,688,70,710,68,733,70,747,77,745,81,732,76,710,73,690,75,677,80,673,86,675,93"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="670,184,668,174,674,165,688,159,710,157,733,160,747,166,745,171,732,165,710,163,690,165,677,169,673,175,675,183"/>
+<area shape="rect" id="Node000008" href="$group__adaptive__inflate.html#ga4bb09d17e5711ab1fcfc5add061c68fd" title=" " alt="" coords="852,249,996,290"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="783,267,836,267,836,272,783,272"/>
+<area shape="rect" id="Node000010" href="$namespaceutilities__mod.html#a9e688ceaa3cb2caac0a21dcf687d21d6" title="call this routine if you find an error before the logfile has been opened." alt="" coords="860,315,988,355"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="774,378,845,356,846,361,775,383"/>
+<area shape="rect" id="Node000011" href="$namespaceutilities__mod.html#a19b014d0d1c69eb19cb8e2b5454fb428" title="call this routine if you end up in a function or subroutine here that CANNOT be called before the ini..." alt="" coords="860,380,988,421"/>
+<area shape="poly" id="edge12_Node000009_Node000011" title=" " alt="" coords="775,398,845,398,845,403,775,403"/>
+<area shape="rect" id="Node000012" href="$namespaceutilities__mod.html#a54f5adeb1920ae3e09826e1feeb09138" title="if trying to write an unformatted string, like &quot;write(*,*)&quot; to both standard output and the logfile,..." alt="" coords="857,445,991,471"/>
+<area shape="poly" id="edge13_Node000009_Node000012" title=" " alt="" coords="775,415,859,438,858,443,774,420"/>
+<area shape="poly" id="edge15_Node000013_Node000008" title=" " alt="" coords="778,312,839,293,841,298,780,317"/>
+<area shape="poly" id="edge17_Node000014_Node000014" title=" " alt="" coords="445,307,443,297,449,288,463,282,484,280,506,282,519,289,517,293,504,288,484,285,464,287,453,292,448,298,450,305"/>
+</map>

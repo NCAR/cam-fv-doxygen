@@ -1,0 +1,48 @@
+<map id="assim_tools_mod::get_correction_from_table" name="assim_tools_mod::get_correction_from_table">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,169,159,210"/>
+<area shape="rect" id="Node000002" href="$namespacesampling__error__correction__mod.html#af3c0c7ee77279d8abe92757de849d30e" title=" " alt="" coords="207,162,385,218"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,187,191,187,191,192,159,192"/>
+<area shape="rect" id="Node000003" href="$namespacesampling__error__correction__mod.html#a2fc3d254ff3cca6018f00de84cde572d" title=" " alt="" coords="651,201,822,242"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="385,193,636,212,636,217,385,199"/>
+<area shape="rect" id="Node000005" href="$namespaceutilities__mod.html#a12b6bcff9ee2f6b821e7a01543fb0dfa" title="write to log and/or standard output, messages, warnings, debug, errors" alt="" coords="1283,71,1412,111"/>
+<area shape="poly" id="edge9_Node000002_Node000005" title=" " alt="" coords="325,159,373,120,432,83,512,46,578,23,647,10,735,7,958,7,1043,12,1127,26,1205,44,1272,63,1270,68,1204,49,1126,31,1042,18,958,12,735,12,647,16,580,28,514,51,434,88,376,124,328,163"/>
+<area shape="rect" id="Node000010" href="$namespacesampling__error__correction__mod.html#ac737e8d0255cc402fe707c6a379f6c2b" title=" " alt="" coords="433,129,603,184"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="385,174,417,169,418,174,386,179"/>
+<area shape="rect" id="Node000011" href="$namespacesampling__error__correction__mod.html#ade2ad97986377744a3d014c56b8558e8" title=" " alt="" coords="651,71,822,111"/>
+<area shape="poly" id="edge24_Node000002_Node000011" title=" " alt="" coords="337,159,382,134,432,114,483,101,536,93,635,87,636,92,537,99,484,107,434,119,384,139,340,164"/>
+<area shape="rect" id="Node000014" href="$namespacesampling__error__correction__mod.html#a12a9ab8c302c7f805cac6965f4e90a09" title=" " alt="" coords="651,356,822,397"/>
+<area shape="poly" id="edge18_Node000002_Node000014" title=" " alt="" coords="348,215,434,259,552,308,660,348,658,353,550,313,432,264,346,220"/>
+<area shape="rect" id="Node000017" href="$namespacesampling__error__correction__mod.html#adec3112a0b47541428e9d54a994c5b11" title="read the true correlation and correction arrays" alt="" coords="651,267,822,307"/>
+<area shape="poly" id="edge25_Node000002_Node000017" title=" " alt="" coords="386,207,637,262,636,268,385,212"/>
+<area shape="rect" id="Node000004" href="$namespacenetcdf__utilities__mod.html#ab84e952e7df4fd6a0770e9fca314b932" title="check return code from previous call. on error, print and stop. if you want to continue after an erro..." alt="" coords="1092,221,1229,262"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="822,223,1076,235,1076,240,822,228"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1186,219,1308,119,1311,123,1189,223"/>
+<area shape="rect" id="Node000009" href="$namespacenetcdf__utilities__mod.html#ad1aed8fb433368a14c78e5dd6102687f" title="look up and return the filename for this handle" alt="" coords="1277,221,1418,262"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="1230,239,1262,239,1262,244,1230,244"/>
+<area shape="rect" id="Node000006" href="$namespaceutilities__mod.html#a9e688ceaa3cb2caac0a21dcf687d21d6" title="call this routine if you find an error before the logfile has been opened." alt="" coords="1469,5,1596,46"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1406,68,1458,49,1460,54,1408,73"/>
+<area shape="rect" id="Node000007" href="$namespaceutilities__mod.html#a19b014d0d1c69eb19cb8e2b5454fb428" title="call this routine if you end up in a function or subroutine here that CANNOT be called before the ini..." alt="" coords="1469,71,1596,111"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="1412,88,1453,88,1453,94,1412,94"/>
+<area shape="rect" id="Node000008" href="$namespaceutilities__mod.html#a54f5adeb1920ae3e09826e1feeb09138" title="if trying to write an unformatted string, like &quot;write(*,*)&quot; to both standard output and the logfile,..." alt="" coords="1466,136,1599,161"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="1413,108,1475,128,1473,133,1411,113"/>
+<area shape="poly" id="edge11_Node000010_Node000003" title=" " alt="" coords="604,179,653,194,651,199,603,184"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="603,128,651,114,653,119,604,133"/>
+<area shape="rect" id="Node000012" href="$namespacesampling__error__correction__mod.html#a5255536ea2e44b11407672e134fec344" title="get the 2 dims &#45; number of entries for any given ensemble size, and number of supported ensemble size..." alt="" coords="651,136,822,177"/>
+<area shape="poly" id="edge15_Node000010_Node000012" title=" " alt="" coords="603,154,636,154,636,159,603,159"/>
+<area shape="poly" id="edge13_Node000011_Node000005" title=" " alt="" coords="822,88,1268,88,1268,94,822,94"/>
+<area shape="poly" id="edge14_Node000011_Node000011" title=" " alt="" coords="695,71,693,61,700,52,715,46,737,44,760,46,774,53,772,57,759,52,736,49,716,51,703,56,698,62,700,69"/>
+<area shape="rect" id="Node000013" href="$namespacesampling__error__correction__mod.html#a8c573716f9c29bdcacc8f7e5173d1115" title="retrieve dimension for sampling error correction" alt="" coords="872,136,1042,177"/>
+<area shape="poly" id="edge16_Node000012_Node000013" title=" " alt="" coords="822,154,856,154,856,159,822,159"/>
+<area shape="poly" id="edge17_Node000013_Node000004" title=" " alt="" coords="1008,175,1097,212,1095,217,1006,180"/>
+<area shape="poly" id="edge19_Node000014_Node000014" title=" " alt="" coords="695,356,693,346,700,337,715,331,737,329,760,332,774,338,772,343,759,337,736,335,716,337,703,341,698,347,700,355"/>
+<area shape="rect" id="Node000015" href="$namespacesampling__error__correction__mod.html#aaa7de826ba1d6c12ebd3c7dd26c78cd1" title="given a variable name, return variable id" alt="" coords="872,316,1042,357"/>
+<area shape="poly" id="edge20_Node000014_Node000015" title=" " alt="" coords="822,358,856,352,857,357,822,363"/>
+<area shape="rect" id="Node000016" href="$namespacesampling__error__correction__mod.html#a7878e26915d9a09b2bf88cd62afc9a27" title=" " alt="" coords="872,381,1042,422"/>
+<area shape="poly" id="edge22_Node000014_Node000016" title=" " alt="" coords="822,383,857,387,856,393,822,389"/>
+<area shape="poly" id="edge21_Node000015_Node000004" title=" " alt="" coords="1014,313,1043,301,1108,267,1111,272,1045,305,1016,318"/>
+<area shape="poly" id="edge23_Node000016_Node000004" title=" " alt="" coords="1020,379,1043,366,1069,345,1094,320,1134,273,1138,276,1098,324,1073,349,1045,371,1023,383"/>
+<area shape="poly" id="edge26_Node000017_Node000015" title=" " alt="" coords="823,303,857,311,856,316,821,309"/>
+<area shape="rect" id="Node000018" href="$namespacesampling__error__correction__mod.html#a20026c8596dcb01acf9a9299a62e084d" title=" " alt="" coords="870,251,1044,291"/>
+<area shape="poly" id="edge27_Node000017_Node000018" title=" " alt="" coords="822,278,854,276,854,281,822,283"/>
+<area shape="poly" id="edge28_Node000018_Node000004" title=" " alt="" coords="1044,256,1076,251,1077,256,1045,261"/>
+</map>
