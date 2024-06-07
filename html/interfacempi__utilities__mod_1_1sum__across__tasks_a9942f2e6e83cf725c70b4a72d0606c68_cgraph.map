@@ -1,0 +1,11 @@
+<map id="mpi_utilities_mod::sum_across_tasks::sum_across_tasks_int8" name="mpi_utilities_mod::sum_across_tasks::sum_across_tasks_int8">
+<area shape="rect" id="Node000001" title="take values from each task, add them, and return the sum to all tasks. long integer version." alt="" coords="5,63,170,119"/>
+<area shape="rect" id="Node000002" href="$namespaceutilities__mod.html#a12b6bcff9ee2f6b821e7a01543fb0dfa" title="write to log and/or standard output, messages, warnings, debug, errors" alt="" coords="218,71,346,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,88,202,88,202,94,170,94"/>
+<area shape="rect" id="Node000003" href="$namespaceutilities__mod.html#a9e688ceaa3cb2caac0a21dcf687d21d6" title="call this routine if you find an error before the logfile has been opened." alt="" coords="397,5,524,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="338,68,388,49,390,54,340,73"/>
+<area shape="rect" id="Node000004" href="$namespaceutilities__mod.html#a19b014d0d1c69eb19cb8e2b5454fb428" title="call this routine if you end up in a function or subroutine here that CANNOT be called before the ini..." alt="" coords="397,71,524,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="346,88,381,88,381,94,346,94"/>
+<area shape="rect" id="Node000005" href="$namespaceutilities__mod.html#a54f5adeb1920ae3e09826e1feeb09138" title="if trying to write an unformatted string, like &quot;write(*,*)&quot; to both standard output and the logfile,..." alt="" coords="394,136,527,161"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="347,109,405,128,403,133,345,114"/>
+</map>
