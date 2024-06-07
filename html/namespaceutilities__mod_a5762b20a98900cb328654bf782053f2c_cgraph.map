@@ -1,0 +1,37 @@
+<map id="utilities_mod::string_to_logical" name="utilities_mod::string_to_logical">
+<area shape="rect" id="Node000001" title="if matching true or false, uppercase the string so any combination of upper and lower case matches...." alt="" coords="5,118,140,159"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="36,118,34,108,40,99,53,93,73,91,93,94,106,100,103,105,92,99,72,96,54,98,44,103,39,109,41,117"/>
+<area shape="rect" id="Node000002" href="$namespaceutilities__mod.html#a12b6bcff9ee2f6b821e7a01543fb0dfa" title="write to log and/or standard output, messages, warnings, debug, errors" alt="" coords="200,89,328,129"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,125,184,118,185,124,140,131"/>
+<area shape="rect" id="Node000006" href="$namespaceutilities__mod.html#a3cd818255d7f98765915ab676582b413" title="convert a string to upper case in place" alt="" coords="188,153,340,179"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="140,145,173,150,172,155,139,151"/>
+<area shape="rect" id="Node000003" href="$namespaceutilities__mod.html#a9e688ceaa3cb2caac0a21dcf687d21d6" title="call this routine if you find an error before the logfile has been opened." alt="" coords="391,55,518,96"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="328,95,375,87,376,92,329,100"/>
+<area shape="rect" id="Node000004" href="$namespaceutilities__mod.html#a19b014d0d1c69eb19cb8e2b5454fb428" title="call this routine if you end up in a function or subroutine here that CANNOT be called before the ini..." alt="" coords="391,121,518,161"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="329,117,376,125,375,130,328,122"/>
+<area shape="rect" id="Node000005" href="$namespaceutilities__mod.html#a54f5adeb1920ae3e09826e1feeb09138" title="if trying to write an unformatted string, like &quot;write(*,*)&quot; to both standard output and the logfile,..." alt="" coords="388,5,521,31"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="300,86,387,41,401,35,404,40,389,46,303,90"/>
+<area shape="rect" id="Node000007" href="$string_8f.html#aa3112b3661ec475fe7949d9ae5bafb40" title=" " alt="" coords="428,185,481,211"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="341,176,413,189,412,194,340,182"/>
+<area shape="rect" id="Node000008" href="$bort2_8f.html#afef28b5a86909cc8999fad7d98b11f00" title=" " alt="" coords="789,211,839,236"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="481,187,529,174,593,163,664,159,701,163,736,170,763,183,787,198,785,203,761,187,734,175,700,168,664,165,594,168,530,179,482,192"/>
+<area shape="rect" id="Node000009" href="$parusr_8f.html#ae49e5fa3610c743607ca6288d4107d28" title=" " alt="" coords="569,236,627,262"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="483,205,556,231,554,236,481,210"/>
+<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="627,243,773,225,774,231,627,248"/>
+<area shape="rect" id="Node000010" href="$lstrpc_8f.html#ad042b8b4ce084e8d25f119189d3bbd93" title=" " alt="" coords="678,360,732,386"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="613,260,685,347,681,350,608,264"/>
+<area shape="rect" id="Node000012" href="$parseq_8f.html#a8fe78089a887c08954fd0dd0538a8e24" title=" " alt="" coords="675,185,735,211"/>
+<area shape="poly" id="edge14_Node000009_Node000012" title=" " alt="" coords="626,233,661,216,664,221,628,238"/>
+<area shape="rect" id="Node000013" href="$parutg_8f.html#a2da1c300ec049ee215d937b5ab545f53" title=" " alt="" coords="676,287,734,312"/>
+<area shape="poly" id="edge16_Node000009_Node000013" title=" " alt="" coords="628,260,664,277,661,282,626,265"/>
+<area shape="poly" id="edge13_Node000010_Node000010" title=" " alt="" coords="686,361,682,351,684,342,692,336,705,333,719,336,726,343,722,347,716,341,705,339,694,340,689,345,688,351,691,359"/>
+<area shape="rect" id="Node000011" href="$bort_8f.html#adc4659c5e9171f22248cf61e054ddd17" title=" " alt="" coords="792,348,835,374"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="732,367,776,362,777,368,732,373"/>
+<area shape="poly" id="edge15_Node000012_Node000008" title=" " alt="" coords="736,202,774,212,773,217,735,208"/>
+<area shape="poly" id="edge18_Node000013_Node000008" title=" " alt="" coords="723,284,780,244,783,248,726,288"/>
+<area shape="poly" id="edge17_Node000013_Node000011" title=" " alt="" coords="731,310,780,339,777,343,728,315"/>
+<area shape="rect" id="Node000014" href="$strnum_8f.html#a7759bee9ff88d9609a15dd542f16310a" title=" " alt="" coords="783,287,844,312"/>
+<area shape="poly" id="edge19_Node000013_Node000014" title=" " alt="" coords="734,297,767,297,767,302,734,302"/>
+<area shape="rect" id="Node000015" href="$strsuc_8f.html#ab18db8197d0e5256ff5dfd2f26304d28" title=" " alt="" coords="892,287,950,312"/>
+<area shape="poly" id="edge20_Node000014_Node000015" title=" " alt="" coords="845,297,877,297,877,302,845,302"/>
+</map>

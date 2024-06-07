@@ -1,0 +1,110 @@
+<map id="utilities_mod::dump_unit_attributes" name="utilities_mod::dump_unit_attributes">
+<area shape="rect" id="Node000001" title="Useful for dumping all the attributes for a file &#39;unit&#39; A debugging routine. TJH Oct 2004." alt="" coords="5,827,140,867"/>
+<area shape="rect" id="Node000002" href="$namespaceutilities__mod.html#a3f63425c321a0636992b51e9c79fcac7" title=" " alt="" coords="188,367,337,407"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,825,244,421,249,423,85,827"/>
+<area shape="rect" id="Node000033" href="$namespaceutilities__mod.html#acd8a80125fb721d558bc26618e8eea6b" title="fairly specialized routine to output the results of a file inquire call from dump_unit_attributes" alt="" coords="193,873,332,914"/>
+<area shape="poly" id="edge66_Node000001_Node000033" title=" " alt="" coords="140,861,179,870,178,876,139,866"/>
+<area shape="rect" id="Node000034" href="$pad_8f.html#a1ca33013e4c11f3c9d1fe614f9f1d585" title=" " alt="" coords="241,957,284,983"/>
+<area shape="poly" id="edge68_Node000001_Node000034" title=" " alt="" coords="104,866,189,923,229,948,227,953,186,928,101,870"/>
+<area shape="rect" id="Node000003" href="$namespaceutilities__mod.html#ada43bd6e7099952a626e082d7fa0e440" title="Confirms that a namelist read was successful. If it failed produces an error message and stops execut..." alt="" coords="623,348,760,389"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="337,381,607,369,607,375,338,386"/>
+<area shape="rect" id="Node000005" href="$namespaceutilities__mod.html#a12b6bcff9ee2f6b821e7a01543fb0dfa" title="write to log and/or standard output, messages, warnings, debug, errors" alt="" coords="1029,456,1157,497"/>
+<area shape="poly" id="edge26_Node000002_Node000005" title=" " alt="" coords="274,407,289,440,313,481,346,520,365,537,386,550,409,559,437,565,506,569,589,566,679,556,862,525,1013,493,1014,498,863,530,680,561,589,571,506,575,436,570,407,564,384,555,362,541,342,524,309,484,285,443,269,409"/>
+<area shape="rect" id="Node000009" href="$namespaceutilities__mod.html#af64141ca73d698d56a8a90f4f06bd21b" title=" " alt="" coords="831,157,968,198"/>
+<area shape="poly" id="edge11_Node000002_Node000009" title=" " alt="" coords="261,366,266,303,283,216,298,170,319,126,348,87,383,54,435,24,482,8,528,3,572,8,618,20,665,38,774,85,824,112,867,145,863,149,821,117,772,89,663,43,616,25,571,13,528,8,483,13,437,29,387,58,352,90,324,129,303,172,288,217,271,303,266,367"/>
+<area shape="rect" id="Node000010" href="$namespaceutilities__mod.html#ada0bc0fbdb62dda0a03f7b23a7de35aa" title="unfortunately you can&#39;t pass a namelist as an argument, so all modules with namelists have to call wr..." alt="" coords="390,197,558,223"/>
+<area shape="poly" id="edge14_Node000002_Node000010" title=" " alt="" coords="279,364,322,309,351,278,383,251,410,237,437,226,439,231,412,242,387,256,355,282,326,312,284,368"/>
+<area shape="rect" id="Node000012" href="$namespaceutilities__mod.html#a57146d1bf098cd251ef93abb838d1f30" title="return whether nml should be written to terminal for more details see above." alt="" coords="385,124,562,149"/>
+<area shape="poly" id="edge20_Node000002_Node000012" title=" " alt="" coords="268,365,283,324,306,271,339,217,360,192,383,170,403,159,423,151,425,156,405,164,387,174,364,196,344,220,311,274,288,326,273,367"/>
+<area shape="rect" id="Node000013" href="$namespaceutilities__mod.html#a12f1ef163d71a74e55bbe712aed4c7e9" title="print out the kind numbers for various Fortran90 variable kinds (as in F90 type/kind/rank,..." alt="" coords="1026,665,1160,706"/>
+<area shape="poly" id="edge24_Node000002_Node000013" title=" " alt="" coords="265,408,267,482,272,533,281,588,296,646,318,702,348,754,387,798,459,855,531,894,567,907,603,916,638,920,674,921,747,911,822,887,898,848,976,797,993,779,1001,759,1008,738,1024,716,1027,713,1030,717,1028,719,1013,740,1006,761,998,781,980,801,900,853,824,892,748,916,675,926,638,926,602,921,565,912,529,899,456,860,383,802,343,757,313,704,291,647,276,589,267,534,262,483,260,408"/>
+<area shape="rect" id="Node000014" href="$namespaceutilities__mod.html#af2d10d6217e02a78677dba474815ba09" title="call this routine if you cannot open the log file." alt="" coords="410,449,537,490"/>
+<area shape="poly" id="edge27_Node000002_Node000014" title=" " alt="" coords="317,405,406,441,404,446,315,410"/>
+<area shape="rect" id="Node000015" href="$namespaceutilities__mod.html#ad4d01f7f0f751b03c2480fb100dc7c6a" title="Opens namelist_file_name if it exists on unit iunit, error if it doesn&#39;t exist. Searches file for a l..." alt="" coords="412,617,535,658"/>
+<area shape="poly" id="edge28_Node000002_Node000015" title=" " alt="" coords="273,407,289,445,313,495,346,548,387,594,404,607,401,611,383,598,342,551,309,498,284,448,268,409"/>
+<area shape="rect" id="Node000018" href="$namespaceutilities__mod.html#a3903dfa8070eb2885c7f5805043e539b" title=" " alt="" coords="825,362,974,388"/>
+<area shape="poly" id="edge60_Node000002_Node000018" title=" " alt="" coords="337,366,425,348,534,332,654,326,714,327,773,334,813,342,851,354,849,359,812,348,772,339,714,333,654,331,535,338,426,353,338,371"/>
+<area shape="rect" id="Node000030" href="$namespaceutilities__mod.html#a5c88c6ddfe1f40d61f2cc952586cd013" title="write time to standard output and also a unit number if specified." alt="" coords="398,514,549,540"/>
+<area shape="poly" id="edge61_Node000002_Node000030" title=" " alt="" coords="282,406,326,453,355,478,386,499,399,506,397,511,384,504,352,482,323,457,278,410"/>
+<area shape="rect" id="Node000032" href="$namespaceutilities__mod.html#aadded154b87f10eba9b91eeeab0fe145" title="set whether nml output is written to stdout file or only nml file" alt="" coords="839,223,960,263"/>
+<area shape="poly" id="edge63_Node000002_Node000032" title=" " alt="" coords="297,364,338,342,384,323,502,291,623,269,733,254,823,245,824,250,734,259,623,274,504,297,386,328,340,347,299,368"/>
+<area shape="rect" id="Node000004" href="$namespaceutilities__mod.html#aaa23ed1a0469bb9addcd0de6c52645b8" title="Closes the given unit_number if that unit is open. Not an error to call on an already closed unit...." alt="" coords="821,464,978,489"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="741,387,774,405,798,424,822,442,847,455,844,459,819,447,795,428,771,409,739,392"/>
+<area shape="poly" id="edge9_Node000003_Node000005" title=" " alt="" coords="761,384,1014,453,1013,458,760,389"/>
+<area shape="rect" id="Node000007" href="$namespaceutilities__mod.html#a19b014d0d1c69eb19cb8e2b5454fb428" title="call this routine if you end up in a function or subroutine here that CANNOT be called before the ini..." alt="" coords="1211,312,1339,353"/>
+<area shape="poly" id="edge10_Node000003_Node000007" title=" " alt="" coords="742,345,780,332,820,323,921,312,1023,310,1117,314,1196,320,1196,326,1117,319,1023,316,922,318,821,328,781,338,744,350"/>
+<area shape="poly" id="edge8_Node000004_Node000002" title=" " alt="" coords="836,466,772,454,545,421,352,399,353,393,546,416,773,448,837,460"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="978,474,1014,474,1014,479,978,479"/>
+<area shape="rect" id="Node000006" href="$namespaceutilities__mod.html#a9e688ceaa3cb2caac0a21dcf687d21d6" title="call this routine if you find an error before the logfile has been opened." alt="" coords="1211,456,1339,497"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1158,474,1196,474,1196,479,1158,479"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="1119,453,1234,361,1238,365,1122,457"/>
+<area shape="rect" id="Node000008" href="$namespaceutilities__mod.html#a54f5adeb1920ae3e09826e1feeb09138" title="if trying to write an unformatted string, like &quot;write(*,*)&quot; to both standard output and the logfile,..." alt="" coords="1208,550,1342,576"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="1139,495,1234,541,1232,546,1137,500"/>
+<area shape="poly" id="edge12_Node000009_Node000005" title=" " alt="" coords="963,196,980,209,1003,236,1023,265,1054,328,1075,389,1088,440,1083,441,1070,391,1049,330,1018,268,999,239,976,213,960,201"/>
+<area shape="poly" id="edge13_Node000009_Node000007" title=" " alt="" coords="969,186,1062,209,1113,225,1162,246,1204,271,1241,299,1238,304,1201,276,1159,251,1111,230,1061,214,968,191"/>
+<area shape="poly" id="edge19_Node000010_Node000002" title=" " alt="" coords="397,225,387,232,354,260,324,292,281,355,277,352,320,289,350,256,383,228,394,221"/>
+<area shape="poly" id="edge15_Node000010_Node000010" title=" " alt="" coords="438,198,432,188,436,178,450,172,474,170,500,173,513,180,510,184,498,178,474,176,451,178,439,182,437,188,443,195"/>
+<area shape="rect" id="Node000011" href="$namespaceutilities__mod.html#ae5919d9aaedac3ac4128d1d68ed05769" title="return whether output should be written from this task" alt="" coords="612,124,771,149"/>
+<area shape="poly" id="edge16_Node000010_Node000011" title=" " alt="" coords="514,194,635,152,637,157,515,199"/>
+<area shape="poly" id="edge18_Node000011_Node000002" title=" " alt="" coords="667,125,613,99,540,73,500,66,460,65,422,72,386,89,356,115,332,146,312,181,297,218,277,291,269,352,263,351,272,290,292,216,307,179,327,143,353,111,384,85,420,67,460,60,500,61,541,68,615,94,669,121"/>
+<area shape="poly" id="edge17_Node000011_Node000011" title=" " alt="" coords="657,125,650,115,654,105,668,99,692,97,717,100,730,106,728,111,715,105,691,102,670,104,658,109,655,114,661,122"/>
+<area shape="poly" id="edge23_Node000012_Node000002" title=" " alt="" coords="386,151,363,172,343,197,311,251,288,306,273,352,268,351,283,304,306,249,339,194,360,168,383,147"/>
+<area shape="poly" id="edge22_Node000012_Node000011" title=" " alt="" coords="563,134,596,134,596,139,563,139"/>
+<area shape="poly" id="edge21_Node000012_Node000012" title=" " alt="" coords="438,125,432,115,436,105,450,99,474,97,500,100,513,106,510,111,498,105,474,102,451,104,439,109,437,114,443,122"/>
+<area shape="poly" id="edge25_Node000013_Node000008" title=" " alt="" coords="1130,662,1159,645,1243,584,1246,588,1162,649,1133,667"/>
+<area shape="poly" id="edge29_Node000015_Node000005" title=" " alt="" coords="535,622,610,607,714,592,797,585,877,573,924,561,977,543,1016,525,1051,503,1053,508,1018,530,979,548,925,566,879,579,797,591,715,597,611,612,536,627"/>
+<area shape="poly" id="edge30_Node000015_Node000007" title=" " alt="" coords="536,642,663,648,742,645,828,637,916,621,1003,595,1085,557,1123,534,1158,507,1198,450,1251,365,1256,367,1203,453,1162,510,1126,538,1088,562,1005,600,918,626,829,642,743,651,663,653,535,647"/>
+<area shape="rect" id="Node000016" href="$namespaceutilities__mod.html#adc9c6ca8c4039bd52d9a72f806a9dcd2" title=" " alt="" coords="632,740,751,781"/>
+<area shape="poly" id="edge31_Node000015_Node000016" title=" " alt="" coords="520,656,564,679,647,729,644,734,561,684,517,661"/>
+<area shape="rect" id="Node000017" href="$namespaceutilities__mod.html#a77ad7301456803b1c560cd7c75a37549" title="open a file. assigns a unit number to be used for subsequent read/writes. can open an existing file,..." alt="" coords="614,805,769,831"/>
+<area shape="poly" id="edge34_Node000015_Node000017" title=" " alt="" coords="494,656,560,735,612,790,622,796,619,800,609,794,556,738,490,660"/>
+<area shape="rect" id="Node000021" href="$namespaceutilities__mod.html#a3cd818255d7f98765915ab676582b413" title="convert a string to upper case in place" alt="" coords="823,704,976,729"/>
+<area shape="poly" id="edge59_Node000015_Node000021" title=" " alt="" coords="536,646,811,697,810,703,535,652"/>
+<area shape="poly" id="edge33_Node000016_Node000002" title=" " alt="" coords="631,752,492,718,427,696,383,672,357,644,335,613,301,545,279,478,266,423,272,422,284,477,306,543,339,610,361,641,387,668,429,691,493,713,632,746"/>
+<area shape="poly" id="edge32_Node000016_Node000016" title=" " alt="" coords="652,740,650,730,657,721,671,715,692,713,714,716,727,722,725,727,713,721,691,719,672,721,660,725,655,731,657,739"/>
+<area shape="poly" id="edge35_Node000017_Node000001" title=" " alt="" coords="614,824,155,846,155,840,614,819"/>
+<area shape="poly" id="edge41_Node000017_Node000002" title=" " alt="" coords="613,809,481,781,422,762,383,740,352,704,326,664,306,620,290,576,271,490,263,423,268,423,276,490,295,574,311,618,331,661,356,701,387,736,425,757,483,776,614,803"/>
+<area shape="poly" id="edge36_Node000017_Node000005" title=" " alt="" coords="769,802,889,776,942,759,976,740,996,707,1023,645,1076,510,1081,512,1028,647,1000,710,980,744,944,763,890,781,770,808"/>
+<area shape="poly" id="edge37_Node000017_Node000018" title=" " alt="" coords="756,802,771,791,798,749,810,708,810,669,805,629,799,589,795,546,800,500,818,450,839,420,864,396,868,400,843,423,823,452,805,501,801,546,804,588,811,629,816,669,815,709,803,751,775,794,760,806"/>
+<area shape="rect" id="Node000019" href="$status_8f.html#ad8a3d1b45f0635666e1570308968da0d" title=" " alt="" coords="1065,906,1122,932"/>
+<area shape="poly" id="edge42_Node000017_Node000019" title=" " alt="" coords="746,829,1050,906,1049,911,745,834"/>
+<area shape="poly" id="edge44_Node000017_Node000021" title=" " alt="" coords="745,802,771,790,786,780,795,769,805,758,819,746,843,733,846,738,822,751,808,762,799,772,789,784,774,795,747,807"/>
+<area shape="poly" id="edge38_Node000018_Node000005" title=" " alt="" coords="937,386,979,405,1049,445,1046,450,977,409,935,391"/>
+<area shape="poly" id="edge39_Node000018_Node000007" title=" " alt="" coords="974,364,1196,339,1196,344,974,369"/>
+<area shape="poly" id="edge40_Node000018_Node000018" title=" " alt="" coords="867,363,860,354,864,344,878,338,899,336,923,338,935,345,933,350,922,343,899,341,879,343,868,348,866,353,871,360"/>
+<area shape="rect" id="Node000020" href="$bort_8f.html#adc4659c5e9171f22248cf61e054ddd17" title=" " alt="" coords="1507,881,1550,907"/>
+<area shape="poly" id="edge43_Node000019_Node000020" title=" " alt="" coords="1122,915,1491,893,1492,898,1122,920"/>
+<area shape="rect" id="Node000022" href="$string_8f.html#aa3112b3661ec475fe7949d9ae5bafb40" title=" " alt="" coords="1067,730,1120,756"/>
+<area shape="poly" id="edge45_Node000021_Node000022" title=" " alt="" coords="976,724,1052,735,1051,740,975,729"/>
+<area shape="rect" id="Node000023" href="$bort2_8f.html#afef28b5a86909cc8999fad7d98b11f00" title=" " alt="" coords="1504,708,1554,733"/>
+<area shape="poly" id="edge46_Node000022_Node000023" title=" " alt="" coords="1120,733,1179,718,1261,702,1355,693,1403,692,1450,696,1489,705,1488,710,1450,702,1403,698,1355,698,1261,707,1180,723,1121,738"/>
+<area shape="rect" id="Node000024" href="$parusr_8f.html#ae49e5fa3610c743607ca6288d4107d28" title=" " alt="" coords="1246,733,1304,759"/>
+<area shape="poly" id="edge47_Node000022_Node000024" title=" " alt="" coords="1120,741,1230,742,1230,748,1120,746"/>
+<area shape="poly" id="edge48_Node000024_Node000023" title=" " alt="" coords="1303,735,1344,725,1389,718,1441,715,1488,715,1488,721,1441,720,1390,723,1345,731,1305,740"/>
+<area shape="rect" id="Node000025" href="$lstrpc_8f.html#ad042b8b4ce084e8d25f119189d3bbd93" title=" " alt="" coords="1393,856,1447,881"/>
+<area shape="poly" id="edge49_Node000024_Node000025" title=" " alt="" coords="1293,757,1393,843,1390,847,1290,761"/>
+<area shape="rect" id="Node000026" href="$parseq_8f.html#a8fe78089a887c08954fd0dd0538a8e24" title=" " alt="" coords="1390,733,1450,759"/>
+<area shape="poly" id="edge52_Node000024_Node000026" title=" " alt="" coords="1304,743,1374,743,1374,748,1304,748"/>
+<area shape="rect" id="Node000027" href="$parutg_8f.html#a2da1c300ec049ee215d937b5ab545f53" title=" " alt="" coords="1391,782,1449,808"/>
+<area shape="poly" id="edge54_Node000024_Node000027" title=" " alt="" coords="1305,753,1377,778,1375,783,1303,758"/>
+<area shape="poly" id="edge50_Node000025_Node000020" title=" " alt="" coords="1447,872,1492,883,1491,888,1446,877"/>
+<area shape="poly" id="edge51_Node000025_Node000025" title=" " alt="" coords="1400,856,1397,847,1399,838,1407,831,1420,829,1434,832,1441,838,1437,842,1431,836,1420,834,1409,836,1403,840,1402,846,1405,854"/>
+<area shape="poly" id="edge53_Node000026_Node000023" title=" " alt="" coords="1450,736,1488,727,1489,732,1451,741"/>
+<area shape="poly" id="edge55_Node000027_Node000020" title=" " alt="" coords="1439,806,1452,817,1506,868,1502,872,1448,821,1435,810"/>
+<area shape="poly" id="edge56_Node000027_Node000023" title=" " alt="" coords="1439,779,1494,740,1497,745,1442,784"/>
+<area shape="rect" id="Node000028" href="$strnum_8f.html#a7759bee9ff88d9609a15dd542f16310a" title=" " alt="" coords="1498,782,1559,808"/>
+<area shape="poly" id="edge57_Node000027_Node000028" title=" " alt="" coords="1449,792,1482,792,1482,798,1449,798"/>
+<area shape="rect" id="Node000029" href="$strsuc_8f.html#ab18db8197d0e5256ff5dfd2f26304d28" title=" " alt="" coords="1607,782,1665,808"/>
+<area shape="poly" id="edge58_Node000028_Node000029" title=" " alt="" coords="1560,792,1592,792,1592,798,1560,798"/>
+<area shape="rect" id="Node000031" href="$namespaceutilities__mod.html#adcb6005aad342e7745713b7b4a2fce81" title="write time to the given unit. should have option to write to a string. and brief should be the defaul..." alt="" coords="610,464,773,489"/>
+<area shape="poly" id="edge62_Node000030_Node000031" title=" " alt="" coords="531,511,618,491,619,496,533,516"/>
+<area shape="poly" id="edge64_Node000032_Node000005" title=" " alt="" coords="923,262,980,324,1071,442,1067,445,976,327,919,266"/>
+<area shape="poly" id="edge65_Node000032_Node000007" title=" " alt="" coords="960,245,1055,256,1161,279,1222,303,1220,308,1160,284,1054,262,960,250"/>
+<area shape="poly" id="edge67_Node000033_Node000005" title=" " alt="" coords="332,905,466,921,550,924,639,921,730,909,819,886,861,870,902,849,941,825,976,797,992,781,1001,765,1010,733,1013,697,1023,653,1076,510,1081,512,1029,654,1019,698,1015,734,1006,767,996,784,980,801,944,830,905,854,864,874,820,891,731,914,639,926,550,929,466,926,332,910"/>
+<area shape="poly" id="edge69_Node000034_Node000020" title=" " alt="" coords="284,967,690,967,1276,967,1337,961,1396,946,1450,927,1492,909,1494,913,1452,932,1398,951,1338,966,1276,972,690,972,284,972"/>
+<area shape="rect" id="Node000035" href="$pkb_8f.html#a8f795cd39c8f939b486407c65d8959c0" title=" " alt="" coords="453,1020,495,1045"/>
+<area shape="poly" id="edge70_Node000034_Node000035" title=" " alt="" coords="285,973,438,1019,437,1024,283,978"/>
+<area shape="rect" id="Node000036" href="$irev_8f.html#a106c0c69a34c21bde2372b60d22941cd" title=" " alt="" coords="670,1032,713,1057"/>
+<area shape="poly" id="edge71_Node000035_Node000036" title=" " alt="" coords="495,1031,655,1040,654,1045,495,1036"/>
+<area shape="poly" id="edge72_Node000036_Node000036" title=" " alt="" coords="668,1040,653,1029,651,1016,665,1008,691,1005,714,1007,728,1012,733,1022,728,1031,723,1028,728,1022,725,1017,713,1012,692,1010,667,1013,656,1019,657,1026,671,1035"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="utilities_mod::set_nml_output" name="utilities_mod::set_nml_output">
+<area shape="rect" id="Node000001" title="set whether nml output is written to stdout file or only nml file" alt="" coords="5,92,126,133"/>
+<area shape="rect" id="Node000002" href="$namespaceutilities__mod.html#a12b6bcff9ee2f6b821e7a01543fb0dfa" title="write to log and/or standard output, messages, warnings, debug, errors" alt="" coords="174,63,302,103"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,99,158,94,159,99,127,105"/>
+<area shape="rect" id="Node000004" href="$namespaceutilities__mod.html#a19b014d0d1c69eb19cb8e2b5454fb428" title="call this routine if you end up in a function or subroutine here that CANNOT be called before the ini..." alt="" coords="353,120,480,161"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="126,114,337,131,337,137,126,120"/>
+<area shape="rect" id="Node000003" href="$namespaceutilities__mod.html#a9e688ceaa3cb2caac0a21dcf687d21d6" title="call this routine if you find an error before the logfile has been opened." alt="" coords="353,5,480,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="301,60,337,48,339,53,303,65"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="303,101,339,113,337,118,301,106"/>
+<area shape="rect" id="Node000005" href="$namespaceutilities__mod.html#a54f5adeb1920ae3e09826e1feeb09138" title="if trying to write an unformatted string, like &quot;write(*,*)&quot; to both standard output and the logfile,..." alt="" coords="350,70,483,96"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="302,80,335,80,335,86,302,86"/>
+</map>
