@@ -1051,7 +1051,11 @@ EXCLUDE                = ../DART/models/9var \
                          ../DART/models/wrf \
                          ../DART/models/wrf_hydro \
                          ../assimilation_code/modules/observations/DEFAULT_obs_kind_mod.F90 \
-                         ../observations/forward_operators/DEFAULT_obs_def_mod.F90
+                         ../observations/forward_operators/DEFAULT_obs_def_mod.F90 \
+                         ../DART/assimilation_code/modules/assimilation/filter_mod.dopplerfold.f90 \
+                         ../DART/assimilation_code/modules/observations/DEFAULT_obs_kind_mod.F90 \
+                         ../DART/observations/forward_operators/DEFAULT_obs_def_mod.F90 \
+                         ../DART/assimilation_code/modules/assimilation/assim_tools_mod.pf.f90
 
 # The EXCLUDE_SYMLINKS tag can be used to select whether or not files or
 # directories that are symbolic links (a Unix file system feature) are excluded
