@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['jcal_0',['jcal',['../namespaceconstants.html#ac5d0664bed87ee0fc09ca6c8fe26e1ed',1,'constants']]],
+  ['jextra_1',['jextra',['../structread__diag_1_1diag__header__fix__list.html#af4e5e5e7739744da77e49966cc7a1dec',1,'read_diag::diag_header_fix_list']]],
+  ['jiter_2',['jiter',['../structread__diag_1_1diag__header__fix__list.html#a1cd3070a823519ecdba0a1db49b0c3ae',1,'read_diag::diag_header_fix_list']]],
+  ['jpch_5frad_3',['jpch_rad',['../namespaceradinfo.html#a25699735511dfb15d4f2fd9622607866',1,'radinfo']]],
+  ['jprec2_4',['jprec2',['../namespacewod__read__routines__mod.html#a1d66b6e8750607739ccbe23a6bf3f6a4',1,'wod_read_routines_mod']]],
+  ['jprecb_5',['jprecb',['../namespacewod__read__routines__mod.html#a98dcba3dd44229b834b4774aec076a0c',1,'wod_read_routines_mod']]],
+  ['jprecp_6',['jprecp',['../namespacewod__read__routines__mod.html#ac654d9961a2d65b292afe14771c495b7',1,'wod_read_routines_mod']]],
+  ['jprectax_7',['jprectax',['../namespacewod__read__routines__mod.html#a339937612320d66f8d3ac7b8ad3029c6',1,'wod_read_routines_mod']]],
+  ['jsig2_8',['jsig2',['../namespacewod__read__routines__mod.html#a7f2d9202471f1639494ac5379e3843eb',1,'wod_read_routines_mod']]],
+  ['jsigb_9',['jsigb',['../namespacewod__read__routines__mod.html#afa609e37756fc3c49429c21542feb303',1,'wod_read_routines_mod']]],
+  ['jsigp_10',['jsigp',['../namespacewod__read__routines__mod.html#a00012dd79d310a87e3714867f18fab0e',1,'wod_read_routines_mod']]],
+  ['jsigtax_11',['jsigtax',['../namespacewod__read__routines__mod.html#a425c7eaf01fc67668981c4888eec7367',1,'wod_read_routines_mod']]],
+  ['jstchr_12',['jstchr',['../jstchr_8f.html#a7757df0ff5b45ea031e0ea999e48fada',1,'jstchr.f']]],
+  ['jstchr_2ef_13',['jstchr.f',['../jstchr_8f.html',1,'']]],
+  ['jstnum_14',['jstnum',['../jstnum_8f.html#a0e7d4106a679cae0404866a8781a7651',1,'jstnum.f']]],
+  ['jstnum_2ef_15',['jstnum.f',['../jstnum_8f.html',1,'']]],
+  ['jtot2_16',['jtot2',['../namespacewod__read__routines__mod.html#a28f4d7c5803ffe9aef99ee964909cadf',1,'wod_read_routines_mod']]],
+  ['jtotb_17',['jtotb',['../namespacewod__read__routines__mod.html#a19d15b46ba150e0ac7e8ca80e490a95b',1,'wod_read_routines_mod']]],
+  ['jtotp_18',['jtotp',['../namespacewod__read__routines__mod.html#a90b0addc4c7ca4a5c2ed213b28b1d57b',1,'wod_read_routines_mod']]],
+  ['jtottax_19',['jtottax',['../namespacewod__read__routines__mod.html#af4fea955cfd09c1c59b70177de4d3b24',1,'wod_read_routines_mod']]],
+  ['julian_20',['julian',['../namespacetime__manager__mod.html#adc7e31c99ae388111b41b7d619a26c28',1,'time_manager_mod']]],
+  ['julian_5fday_21',['julian_day',['../namespacetime__manager__mod.html#aa977e6e4deab108fbfb636d519e0276b',1,'time_manager_mod']]]
+];
