@@ -1,0 +1,14 @@
+<map id="direct_netcdf_mod::num_elements_on_pe" name="direct_netcdf_mod::num_elements_on_pe">
+<area shape="rect" id="Node000001" title="Calculate number of elements going to the receiving pe (read_transpose) Or being sent from the sendin..." alt="" coords="5,71,154,111"/>
+<area shape="rect" id="Node000002" href="$namespacempi__utilities__mod.html#ae8ccd09884b18c6d167291247089bd27" title="Return the total number of MPI tasks. e.g. if the number of tasks is 4, it returns 4...." alt="" coords="202,71,332,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,88,186,88,186,94,154,94"/>
+<area shape="poly" id="edge6_Node000002_Node000002" title=" " alt="" coords="233,71,231,61,237,52,249,46,267,44,286,46,298,53,295,57,285,52,267,49,250,51,240,56,236,62,238,70"/>
+<area shape="rect" id="Node000003" href="$namespaceutilities__mod.html#a12b6bcff9ee2f6b821e7a01543fb0dfa" title="write to log and/or standard output, messages, warnings, debug, errors" alt="" coords="380,71,508,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="332,88,364,88,364,94,332,94"/>
+<area shape="rect" id="Node000004" href="$namespaceutilities__mod.html#a9e688ceaa3cb2caac0a21dcf687d21d6" title="call this routine if you find an error before the logfile has been opened." alt="" coords="559,5,687,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="501,68,550,49,552,54,503,73"/>
+<area shape="rect" id="Node000005" href="$namespaceutilities__mod.html#a19b014d0d1c69eb19cb8e2b5454fb428" title="call this routine if you end up in a function or subroutine here that CANNOT be called before the ini..." alt="" coords="559,71,687,111"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="509,88,544,88,544,94,509,94"/>
+<area shape="rect" id="Node000006" href="$namespaceutilities__mod.html#a54f5adeb1920ae3e09826e1feeb09138" title="if trying to write an unformatted string, like &quot;write(*,*)&quot; to both standard output and the logfile,..." alt="" coords="556,136,690,161"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="509,109,567,128,565,133,508,114"/>
+</map>

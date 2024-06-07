@@ -1,0 +1,69 @@
+<map id="direct_netcdf_mod::write_variable_attributes" name="direct_netcdf_mod::write_variable_attributes">
+<area shape="rect" id="Node000001" title="Write model attributes if they exist. This is only used for files that are created by DART." alt="" coords="5,700,168,741"/>
+<area shape="rect" id="Node000002" href="$group__io__filenames__mod.html#ga45295fc627a87616894e8881276544bd" title="Determine if a variable should be clamped or not. If clapming information is stored in the state stru..." alt="" coords="225,29,388,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,699,98,575,122,390,139,294,160,206,184,132,198,103,214,81,216,79,220,82,218,85,203,106,189,134,165,207,144,295,127,391,103,575,92,700"/>
+<area shape="rect" id="Node000003" href="$group__state__structure__mod.html#ga0dd12124e61e29f9b276fe998086d325" title="Return offset of a variable if it exists." alt="" coords="236,119,377,159"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="87,699,101,590,127,432,144,351,165,276,188,214,214,171,221,163,225,167,218,174,192,216,170,277,150,352,132,433,106,591,93,700"/>
+<area shape="rect" id="Node000004" href="$group__io__filenames__mod.html#ga818dae6f65edfebbe3015940f2fc226c" title="Return whether the file is an input, output or prior files." alt="" coords="230,208,383,249"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="85,699,88,619,93,564,104,503,119,438,142,374,173,314,214,260,217,257,221,261,218,263,178,317,147,376,125,440,109,504,99,565,93,620,90,699"/>
+<area shape="rect" id="Node000005" href="$group__state__structure__mod.html#gaba0e71d34ddf5ca56d1ee3cb4dcf291d" title="Return .true. if the variable has a &#39;FillValue&#39;." alt="" coords="236,297,377,338"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="86,699,94,633,114,540,130,489,152,439,180,391,214,349,221,342,225,346,218,353,184,394,157,441,135,491,119,541,99,634,92,700"/>
+<area shape="rect" id="Node000006" href="$group__state__structure__mod.html#gaf9b49db0f0b3c932f1a2d53819516c91" title="Return .true. if the variable has a &#39;missing_value&#39;." alt="" coords="224,387,389,427"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="89,699,102,647,125,578,162,504,186,469,214,438,219,434,222,438,218,442,190,472,166,506,130,580,107,649,94,700"/>
+<area shape="rect" id="Node000007" href="$group__state__structure__mod.html#gaf18f1f0caed8738602335ab270cfe855" title="Return long_name of a variable if it exist." alt="" coords="236,476,377,517"/>
+<area shape="poly" id="edge11_Node000001_Node000007" title=" " alt="" coords="94,698,112,662,138,616,172,569,214,528,221,522,224,527,217,532,176,572,142,619,116,664,99,701"/>
+<area shape="rect" id="Node000008" href="$group__state__structure__mod.html#ga40a45c901d3f68e6ee72776e7c8be203" title="Return scale factor of a variable if it exists." alt="" coords="236,565,377,606"/>
+<area shape="poly" id="edge13_Node000001_Node000008" title=" " alt="" coords="108,698,155,657,214,617,226,610,229,615,217,621,158,662,111,702"/>
+<area shape="rect" id="Node000009" href="$group__state__structure__mod.html#ga66d88ca7f0eeb73d74f5be11ce71da9b" title="Return short_name of a variable if it exist." alt="" coords="236,655,377,695"/>
+<area shape="poly" id="edge15_Node000001_Node000009" title=" " alt="" coords="168,701,220,690,221,695,169,706"/>
+<area shape="rect" id="Node000010" href="$group__state__structure__mod.html#ga4025efcde2bd8bc702bb10b26b393075" title="Return units of a variable if it exist." alt="" coords="236,744,377,785"/>
+<area shape="poly" id="edge17_Node000001_Node000010" title=" " alt="" coords="169,734,221,745,220,750,168,739"/>
+<area shape="rect" id="Node000011" href="$group__state__structure__mod.html#gae70d16314c72c97cf3d1dbdac38e4552" title="Return netCDF type of a variable (aka &#39;xtype&#39;)" alt="" coords="236,833,377,874"/>
+<area shape="poly" id="edge19_Node000001_Node000011" title=" " alt="" coords="123,739,260,823,257,827,120,743"/>
+<area shape="rect" id="Node000012" href="$group__io__filenames__mod.html#ga34c52d7cbf0e9288483454380aedafe8" title="Determine whether a copy could potentially have units. Copies such as Spread and Inflation never have..." alt="" coords="222,923,391,963"/>
+<area shape="poly" id="edge21_Node000001_Node000012" title=" " alt="" coords="103,739,150,807,182,847,217,884,255,912,252,916,214,888,178,850,145,810,98,742"/>
+<area shape="rect" id="Node000013" href="$namespacenetcdf__utilities__mod.html#ab84e952e7df4fd6a0770e9fca314b932" title="check return code from previous call. on error, print and stop. if you want to continue after an erro..." alt="" coords="463,1081,600,1122"/>
+<area shape="poly" id="edge23_Node000001_Node000013" title=" " alt="" coords="95,740,108,788,132,851,168,917,191,947,217,973,240,989,261,998,302,1006,346,1009,370,1014,398,1023,445,1046,487,1071,485,1075,442,1051,396,1028,369,1019,345,1014,301,1011,260,1003,238,993,214,977,187,950,163,920,127,854,103,790,90,742"/>
+<area shape="rect" id="Node000019" href="$group__direct__netcdf__mod.html#ga85a4fb44801f712976ce12f96ac367f2" title="Write model integer missing_value/_FillValue attributes if they exist." alt="" coords="216,1037,397,1078"/>
+<area shape="poly" id="edge29_Node000001_Node000019" title=" " alt="" coords="94,740,106,795,129,868,165,947,189,984,218,1017,229,1027,225,1031,214,1021,185,987,161,950,124,870,101,796,89,742"/>
+<area shape="rect" id="Node000020" href="$group__direct__netcdf__mod.html#ga97512c742d614257d5013e176e85a3a9" title="Write model r4 missing_value/_FillValue attributes if they exist." alt="" coords="217,1103,396,1143"/>
+<area shape="poly" id="edge31_Node000001_Node000020" title=" " alt="" coords="92,741,99,807,119,899,135,950,157,999,184,1046,218,1088,222,1092,218,1096,214,1091,180,1049,152,1002,130,952,114,901,94,808,86,741"/>
+<area shape="rect" id="Node000021" href="$group__direct__netcdf__mod.html#gad501af477a3530059fd8cac992d89632" title="Write model r8 missing_value/_FillValue attributes if they exist." alt="" coords="217,1168,396,1209"/>
+<area shape="poly" id="edge33_Node000001_Node000021" title=" " alt="" coords="90,741,95,817,112,927,127,987,150,1047,179,1103,218,1153,221,1157,217,1160,214,1157,175,1106,145,1049,122,989,106,928,89,818,85,741"/>
+<area shape="rect" id="Node000022" href="$group__direct__netcdf__mod.html#ga09f849b5b89663f36e43ba4058555515" title="Write clamping to variable attributes to files created from scratch." alt="" coords="234,1233,379,1288"/>
+<area shape="poly" id="edge35_Node000001_Node000022" title=" " alt="" coords="90,741,92,826,97,886,106,952,122,1022,145,1092,176,1159,218,1219,224,1225,220,1229,214,1222,172,1161,140,1094,117,1024,101,953,91,887,86,827,84,741"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="265,29,263,19,270,10,284,5,306,3,330,5,344,11,342,16,329,10,306,8,285,10,273,15,268,21,270,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="265,119,263,109,270,100,284,94,306,92,330,94,344,101,342,106,329,100,306,97,285,99,273,104,268,110,270,117"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="265,208,263,198,270,189,284,183,306,181,330,184,344,190,342,195,329,189,306,187,285,189,273,193,268,199,270,207"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="265,297,263,287,270,278,284,273,306,271,330,273,344,279,342,284,329,278,306,276,285,278,273,283,268,289,270,296"/>
+<area shape="poly" id="edge10_Node000006_Node000006" title=" " alt="" coords="265,387,263,377,270,368,284,362,306,360,330,362,344,369,342,374,329,368,306,365,285,367,273,372,268,378,270,385"/>
+<area shape="poly" id="edge12_Node000007_Node000007" title=" " alt="" coords="265,476,263,466,270,457,284,451,306,449,330,452,344,458,342,463,329,457,306,455,285,457,273,461,268,467,270,475"/>
+<area shape="poly" id="edge14_Node000008_Node000008" title=" " alt="" coords="265,565,263,555,270,546,284,541,306,539,330,541,344,547,342,552,329,546,306,544,285,546,273,551,268,557,270,564"/>
+<area shape="poly" id="edge16_Node000009_Node000009" title=" " alt="" coords="265,655,263,645,270,636,284,630,306,628,330,630,344,637,342,642,329,636,306,633,285,635,273,640,268,646,270,653"/>
+<area shape="poly" id="edge18_Node000010_Node000010" title=" " alt="" coords="265,744,263,734,270,725,284,719,306,717,330,720,344,726,342,731,329,725,306,723,285,725,273,729,268,735,270,743"/>
+<area shape="poly" id="edge20_Node000011_Node000011" title=" " alt="" coords="265,833,263,823,270,814,284,809,306,807,330,809,344,815,342,820,329,814,306,812,285,814,273,819,268,825,270,832"/>
+<area shape="poly" id="edge22_Node000012_Node000012" title=" " alt="" coords="265,923,263,913,270,904,284,898,306,896,330,898,344,905,342,910,329,904,306,901,285,903,273,908,268,914,270,921"/>
+<area shape="rect" id="Node000014" href="$namespaceutilities__mod.html#a12b6bcff9ee2f6b821e7a01543fb0dfa" title="write to log and/or standard output, messages, warnings, debug, errors" alt="" coords="671,1049,800,1090"/>
+<area shape="poly" id="edge24_Node000013_Node000014" title=" " alt="" coords="600,1088,655,1079,656,1085,601,1094"/>
+<area shape="rect" id="Node000018" href="$namespacenetcdf__utilities__mod.html#ad1aed8fb433368a14c78e5dd6102687f" title="look up and return the filename for this handle" alt="" coords="665,1115,806,1155"/>
+<area shape="poly" id="edge28_Node000013_Node000018" title=" " alt="" coords="601,1110,650,1118,649,1124,600,1115"/>
+<area shape="rect" id="Node000015" href="$namespaceutilities__mod.html#a9e688ceaa3cb2caac0a21dcf687d21d6" title="call this routine if you find an error before the logfile has been opened." alt="" coords="857,984,984,1025"/>
+<area shape="poly" id="edge25_Node000014_Node000015" title=" " alt="" coords="794,1046,846,1028,848,1033,796,1051"/>
+<area shape="rect" id="Node000016" href="$namespaceutilities__mod.html#a19b014d0d1c69eb19cb8e2b5454fb428" title="call this routine if you end up in a function or subroutine here that CANNOT be called before the ini..." alt="" coords="857,1049,984,1090"/>
+<area shape="poly" id="edge26_Node000014_Node000016" title=" " alt="" coords="800,1067,841,1067,841,1072,800,1072"/>
+<area shape="rect" id="Node000017" href="$namespaceutilities__mod.html#a54f5adeb1920ae3e09826e1feeb09138" title="if trying to write an unformatted string, like &quot;write(*,*)&quot; to both standard output and the logfile,..." alt="" coords="854,1114,987,1140"/>
+<area shape="poly" id="edge27_Node000014_Node000017" title=" " alt="" coords="801,1087,863,1107,861,1112,799,1092"/>
+<area shape="poly" id="edge30_Node000019_Node000013" title=" " alt="" coords="398,1073,448,1083,447,1088,397,1078"/>
+<area shape="poly" id="edge32_Node000020_Node000013" title=" " alt="" coords="396,1112,447,1107,447,1112,396,1117"/>
+<area shape="poly" id="edge34_Node000021_Node000013" title=" " alt="" coords="364,1165,396,1153,444,1133,461,1126,463,1131,446,1137,398,1157,365,1170"/>
+<area shape="poly" id="edge42_Node000022_Node000013" title=" " alt="" coords="377,1231,395,1218,411,1197,418,1177,426,1155,443,1133,449,1129,452,1133,447,1137,431,1158,423,1178,416,1200,399,1222,381,1236"/>
+<area shape="rect" id="Node000023" href="$group__state__structure__mod.html#ga2a5be4999aa85f06acc61594f6ebd23c" title="Returns whether a variable should be clamped or not." alt="" coords="461,1171,601,1211"/>
+<area shape="poly" id="edge36_Node000022_Node000023" title=" " alt="" coords="378,1236,448,1214,449,1219,379,1241"/>
+<area shape="rect" id="Node000024" href="$group__state__structure__mod.html#gaa746db1fcb2bb9eb002482f72b8e33a7" title="Return clamping maximum for a given variable." alt="" coords="445,1260,617,1301"/>
+<area shape="poly" id="edge38_Node000022_Node000024" title=" " alt="" coords="379,1264,430,1269,429,1274,378,1269"/>
+<area shape="rect" id="Node000025" href="$group__state__structure__mod.html#ga1979761ca8bd2fb09627149fee5de375" title="Return clamping minimum for a given variable." alt="" coords="447,1349,615,1390"/>
+<area shape="poly" id="edge40_Node000022_Node000025" title=" " alt="" coords="367,1286,475,1340,473,1344,364,1291"/>
+<area shape="poly" id="edge37_Node000023_Node000023" title=" " alt="" coords="492,1171,490,1161,497,1152,511,1146,531,1144,553,1146,567,1153,564,1157,552,1152,531,1149,512,1151,500,1156,496,1162,498,1169"/>
+<area shape="poly" id="edge39_Node000024_Node000024" title=" " alt="" coords="492,1260,490,1250,497,1241,511,1235,531,1233,553,1236,567,1242,564,1247,552,1241,531,1239,512,1241,500,1245,496,1251,498,1259"/>
+<area shape="poly" id="edge41_Node000025_Node000025" title=" " alt="" coords="492,1349,490,1339,497,1330,511,1325,531,1323,553,1325,567,1331,564,1336,552,1330,531,1328,512,1330,500,1335,496,1340,498,1348"/>
+</map>

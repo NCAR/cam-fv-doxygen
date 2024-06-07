@@ -1,0 +1,79 @@
+<map id="io_filenames_mod::check_correct_variables" name="io_filenames_mod::check_correct_variables">
+<area shape="rect" id="Node000001" title="Check that the netcdf file matches the variables for this domain Do you want to overload this to take..." alt="" coords="5,1328,175,1369"/>
+<area shape="rect" id="Node000002" href="$group__io__filenames__mod.html#ga828bf9ab7aec6319613509833273ef37" title="check that cf&#45;convention attributes are consistent across restarts" alt="" coords="223,475,392,515"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,1327,295,530,300,531,99,1328"/>
+<area shape="rect" id="Node000004" href="$namespaceutilities__mod.html#a12b6bcff9ee2f6b821e7a01543fb0dfa" title="write to log and/or standard output, messages, warnings, debug, errors" alt="" coords="657,219,786,259"/>
+<area shape="poly" id="edge32_Node000001_Node000004" title=" " alt="" coords="92,1327,103,1273,126,1201,143,1164,164,1127,190,1094,221,1066,248,1050,274,1039,299,1033,325,1032,374,1037,423,1048,470,1058,516,1060,539,1056,562,1048,585,1035,607,1016,626,992,642,960,669,876,689,772,703,659,711,543,716,435,718,275,723,275,721,435,716,543,708,659,694,773,674,877,647,962,630,995,611,1020,588,1039,564,1053,541,1061,517,1065,469,1063,422,1053,374,1042,325,1037,300,1039,275,1044,250,1055,224,1070,194,1098,168,1130,148,1166,131,1203,108,1274,97,1328"/>
+<area shape="rect" id="Node000019" href="$group__state__structure__mod.html#ga1afde1c8dca54decec4036a12a074a95" title="Returns whether a variable should be updated or not." alt="" coords="237,1104,378,1145"/>
+<area shape="poly" id="edge30_Node000001_Node000019" title=" " alt="" coords="98,1326,116,1290,144,1245,179,1197,221,1156,228,1150,231,1155,224,1160,183,1201,148,1248,121,1293,103,1329"/>
+<area shape="rect" id="Node000020" href="$group__state__structure__mod.html#ga9ebb1890db2ed6eabb723a70a0359c9b" title="Returns the dimension name." alt="" coords="237,1193,378,1234"/>
+<area shape="poly" id="edge33_Node000001_Node000020" title=" " alt="" coords="112,1325,161,1286,221,1245,233,1239,235,1243,224,1249,164,1290,116,1330"/>
+<area shape="rect" id="Node000021" href="$group__state__structure__mod.html#ga30c9b9017a59a2828c1fa03dc16f979f" title="Return io dimension length." alt="" coords="237,1283,378,1323"/>
+<area shape="poly" id="edge35_Node000001_Node000021" title=" " alt="" coords="174,1328,221,1318,222,1323,175,1333"/>
+<area shape="rect" id="Node000022" href="$group__state__structure__mod.html#ga3296e1af2ff8b574a2e537fffc50dbb2" title="Returns the number of dimensions for a variable." alt="" coords="237,1372,378,1413"/>
+<area shape="poly" id="edge37_Node000001_Node000022" title=" " alt="" coords="175,1363,222,1372,221,1378,174,1368"/>
+<area shape="rect" id="Node000023" href="$group__state__structure__mod.html#ga1c99dd9ce25dae36c2d31e3ec24ab983" title="Returns the number of dimensions for a variable." alt="" coords="237,1461,378,1502"/>
+<area shape="poly" id="edge39_Node000001_Node000023" title=" " alt="" coords="126,1367,261,1450,258,1455,123,1371"/>
+<area shape="rect" id="Node000024" href="$group__state__structure__mod.html#ga2155f1657ec19fc8f4f4ea52c123c731" title="Returns the number of variables in the domain." alt="" coords="237,1551,378,1591"/>
+<area shape="poly" id="edge41_Node000001_Node000024" title=" " alt="" coords="107,1368,156,1435,189,1475,224,1512,260,1540,257,1544,221,1516,185,1478,152,1438,103,1371"/>
+<area shape="rect" id="Node000026" href="$group__state__structure__mod.html#ga13bee77daeb47cebbc6a5afe1f996e1f" title="Returns the variable name." alt="" coords="237,1640,378,1681"/>
+<area shape="poly" id="edge45_Node000001_Node000026" title=" " alt="" coords="101,1368,118,1414,144,1474,180,1540,225,1601,257,1629,253,1633,221,1605,176,1543,139,1477,113,1416,96,1370"/>
+<area shape="rect" id="Node000027" href="$namespacenetcdf__utilities__mod.html#ab84e952e7df4fd6a0770e9fca314b932" title="check return code from previous call. on error, print and stop. if you want to continue after an erro..." alt="" coords="239,1705,376,1746"/>
+<area shape="poly" id="edge47_Node000001_Node000027" title=" " alt="" coords="96,1369,106,1431,128,1516,145,1563,166,1609,193,1652,225,1691,228,1694,225,1698,221,1694,188,1655,162,1611,140,1565,123,1518,101,1432,91,1370"/>
+<area shape="rect" id="Node000003" href="$group__io__filenames__mod.html#ga2e8ac8888843181daa4fef6b568c99af" title="check integer values are the same" alt="" coords="440,5,609,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="307,474,313,399,332,291,349,231,371,171,401,114,438,63,448,53,451,57,442,66,405,117,376,173,354,232,337,292,318,400,312,474"/>
+<area shape="poly" id="edge13_Node000002_Node000004" title=" " alt="" coords="305,474,309,401,315,352,325,299,341,244,365,192,397,145,438,106,482,83,502,78,522,77,563,86,611,106,641,125,667,151,705,204,701,207,663,154,638,129,608,111,562,91,522,83,503,83,484,88,442,111,401,148,370,195,346,246,330,300,320,353,314,402,311,474"/>
+<area shape="rect" id="Node000008" href="$group__io__filenames__mod.html#ga3d5990f31984a0ee2f264328b04acef0" title="check r4 values are the same" alt="" coords="440,120,609,161"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="309,474,320,415,343,335,360,292,381,249,407,208,438,172,442,168,446,172,442,176,411,211,386,251,365,294,348,337,325,417,314,475"/>
+<area shape="rect" id="Node000009" href="$group__io__filenames__mod.html#gadc4c799dba66e93901afce882f1a9533" title="check r8 values are the same" alt="" coords="440,185,609,226"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="311,474,326,426,352,363,388,296,412,265,438,237,443,233,447,237,442,241,416,268,393,299,356,365,331,428,316,475"/>
+<area shape="rect" id="Node000010" href="$group__io__filenames__mod.html#gad44fcdabea3d96053731b32499d68be1" title="check attribute name is consistent across restarts" alt="" coords="440,251,609,291"/>
+<area shape="poly" id="edge11_Node000002_Node000010" title=" " alt="" coords="316,473,334,437,361,391,396,344,438,302,445,297,449,301,442,306,400,348,365,394,338,439,320,475"/>
+<area shape="rect" id="Node000011" href="$group__state__structure__mod.html#ga0dd12124e61e29f9b276fe998086d325" title="Return offset of a variable if it exists." alt="" coords="455,340,595,381"/>
+<area shape="poly" id="edge14_Node000002_Node000011" title=" " alt="" coords="330,472,378,432,439,391,450,385,453,390,441,396,381,437,333,476"/>
+<area shape="rect" id="Node000012" href="$group__state__structure__mod.html#gaba0e71d34ddf5ca56d1ee3cb4dcf291d" title="Return .true. if the variable has a &#39;FillValue&#39;." alt="" coords="455,429,595,470"/>
+<area shape="poly" id="edge16_Node000002_Node000012" title=" " alt="" coords="392,475,439,465,440,470,393,480"/>
+<area shape="rect" id="Node000013" href="$group__state__structure__mod.html#gaf9b49db0f0b3c932f1a2d53819516c91" title="Return .true. if the variable has a &#39;missing_value&#39;." alt="" coords="442,519,607,559"/>
+<area shape="poly" id="edge18_Node000002_Node000013" title=" " alt="" coords="393,510,427,517,426,522,392,515"/>
+<area shape="rect" id="Node000014" href="$group__state__structure__mod.html#gaf18f1f0caed8738602335ab270cfe855" title="Return long_name of a variable if it exist." alt="" coords="455,608,595,649"/>
+<area shape="poly" id="edge20_Node000002_Node000014" title=" " alt="" coords="344,514,478,597,475,602,341,518"/>
+<area shape="rect" id="Node000015" href="$group__state__structure__mod.html#ga40a45c901d3f68e6ee72776e7c8be203" title="Return scale factor of a variable if it exists." alt="" coords="455,697,595,738"/>
+<area shape="poly" id="edge22_Node000002_Node000015" title=" " alt="" coords="324,514,373,582,406,621,442,658,478,687,474,691,438,662,402,625,369,585,320,518"/>
+<area shape="rect" id="Node000016" href="$group__state__structure__mod.html#ga66d88ca7f0eeb73d74f5be11ce71da9b" title="Return short_name of a variable if it exist." alt="" coords="455,787,595,827"/>
+<area shape="poly" id="edge24_Node000002_Node000016" title=" " alt="" coords="318,515,335,560,361,621,397,687,442,748,474,776,471,780,438,751,393,690,357,623,330,562,313,517"/>
+<area shape="rect" id="Node000017" href="$group__state__structure__mod.html#ga4025efcde2bd8bc702bb10b26b393075" title="Return units of a variable if it exist." alt="" coords="455,876,595,917"/>
+<area shape="poly" id="edge26_Node000002_Node000017" title=" " alt="" coords="315,515,327,575,352,659,389,751,414,796,442,837,472,865,469,869,438,841,409,799,384,754,347,660,322,576,310,516"/>
+<area shape="rect" id="Node000018" href="$group__state__structure__mod.html#gae70d16314c72c97cf3d1dbdac38e4552" title="Return netCDF type of a variable (aka &#39;xtype&#39;)" alt="" coords="455,965,595,1006"/>
+<area shape="poly" id="edge28_Node000002_Node000018" title=" " alt="" coords="313,515,322,589,343,695,359,755,381,815,409,873,442,927,471,955,468,958,438,930,404,876,376,817,354,757,337,697,316,589,307,516"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="584,44,611,62,643,96,670,133,708,203,703,206,665,136,639,99,608,66,581,49"/>
+<area shape="rect" id="Node000005" href="$namespaceutilities__mod.html#a9e688ceaa3cb2caac0a21dcf687d21d6" title="call this routine if you find an error before the logfile has been opened." alt="" coords="837,153,964,194"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="778,216,828,197,829,202,780,221"/>
+<area shape="rect" id="Node000006" href="$namespaceutilities__mod.html#a19b014d0d1c69eb19cb8e2b5454fb428" title="call this routine if you end up in a function or subroutine here that CANNOT be called before the ini..." alt="" coords="837,219,964,259"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="786,236,821,236,821,242,786,242"/>
+<area shape="rect" id="Node000007" href="$namespaceutilities__mod.html#a54f5adeb1920ae3e09826e1feeb09138" title="if trying to write an unformatted string, like &quot;write(*,*)&quot; to both standard output and the logfile,..." alt="" coords="834,284,967,309"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="787,257,844,276,843,281,785,262"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="583,159,611,171,676,208,674,213,608,176,581,164"/>
+<area shape="poly" id="edge10_Node000009_Node000004" title=" " alt="" coords="610,217,642,223,641,228,609,223"/>
+<area shape="poly" id="edge12_Node000010_Node000004" title=" " alt="" coords="609,255,641,249,642,255,610,260"/>
+<area shape="poly" id="edge15_Node000011_Node000011" title=" " alt="" coords="487,340,485,330,491,321,505,315,525,313,546,316,559,322,556,327,545,321,525,319,506,321,495,325,491,331,492,339"/>
+<area shape="poly" id="edge17_Node000012_Node000012" title=" " alt="" coords="487,429,485,419,491,410,505,405,525,403,546,405,559,411,556,416,545,410,525,408,506,410,495,415,491,420,492,428"/>
+<area shape="poly" id="edge19_Node000013_Node000013" title=" " alt="" coords="487,519,485,509,491,500,505,494,525,492,546,494,559,501,556,505,545,500,525,497,506,499,495,504,491,510,492,517"/>
+<area shape="poly" id="edge21_Node000014_Node000014" title=" " alt="" coords="487,608,485,598,491,589,505,583,525,581,546,584,559,590,556,595,545,589,525,587,506,589,495,593,491,599,492,607"/>
+<area shape="poly" id="edge23_Node000015_Node000015" title=" " alt="" coords="487,697,485,687,491,678,505,673,525,671,546,673,559,679,556,684,545,678,525,676,506,678,495,683,491,688,492,696"/>
+<area shape="poly" id="edge25_Node000016_Node000016" title=" " alt="" coords="487,787,485,777,491,768,505,762,525,760,546,762,559,769,556,773,545,768,525,765,506,767,495,772,491,778,492,785"/>
+<area shape="poly" id="edge27_Node000017_Node000017" title=" " alt="" coords="487,876,485,866,491,857,505,851,525,849,546,852,559,858,556,863,545,857,525,855,506,857,495,861,491,867,492,875"/>
+<area shape="poly" id="edge29_Node000018_Node000018" title=" " alt="" coords="487,965,485,955,491,946,505,941,525,939,546,941,559,947,556,952,545,946,525,944,506,946,495,951,491,956,492,964"/>
+<area shape="poly" id="edge31_Node000019_Node000019" title=" " alt="" coords="266,1104,264,1094,271,1085,285,1079,307,1077,331,1080,345,1086,343,1091,330,1085,307,1083,287,1085,274,1089,269,1095,271,1103"/>
+<area shape="poly" id="edge34_Node000020_Node000020" title=" " alt="" coords="266,1193,264,1183,271,1174,285,1169,307,1167,331,1169,345,1175,343,1180,330,1174,307,1172,287,1174,274,1179,269,1185,271,1192"/>
+<area shape="poly" id="edge36_Node000021_Node000021" title=" " alt="" coords="266,1283,264,1273,271,1264,285,1258,307,1256,331,1258,345,1265,343,1269,330,1264,307,1261,287,1263,274,1268,269,1274,271,1281"/>
+<area shape="poly" id="edge38_Node000022_Node000022" title=" " alt="" coords="266,1372,264,1362,271,1353,285,1347,307,1345,331,1348,345,1354,343,1359,330,1353,307,1351,287,1353,274,1357,269,1363,271,1371"/>
+<area shape="poly" id="edge40_Node000023_Node000023" title=" " alt="" coords="266,1461,264,1451,271,1442,285,1437,307,1435,331,1437,345,1443,343,1448,330,1442,307,1440,287,1442,274,1447,269,1453,271,1460"/>
+<area shape="poly" id="edge44_Node000024_Node000024" title=" " alt="" coords="266,1551,264,1541,271,1532,285,1526,307,1524,331,1526,345,1533,343,1537,330,1532,307,1529,287,1531,274,1536,269,1542,271,1549"/>
+<area shape="rect" id="Node000025" href="$group__state__structure__mod.html#gaa4224d79f976c86c9b1e393242b2ff67" title=" " alt="" coords="455,1316,595,1357"/>
+<area shape="poly" id="edge42_Node000024_Node000025" title=" " alt="" coords="347,1548,370,1532,390,1512,407,1482,413,1454,420,1425,438,1393,470,1364,474,1368,442,1397,425,1427,419,1455,412,1484,394,1515,373,1536,350,1552"/>
+<area shape="poly" id="edge43_Node000025_Node000004" title=" " alt="" coords="531,1315,567,1207,607,1061,650,828,682,598,703,404,715,274,720,275,708,404,687,599,655,828,612,1062,572,1209,536,1316"/>
+<area shape="poly" id="edge46_Node000026_Node000026" title=" " alt="" coords="266,1640,264,1630,271,1621,285,1615,307,1613,331,1616,345,1622,343,1627,330,1621,307,1619,287,1621,274,1625,269,1631,271,1639"/>
+<area shape="poly" id="edge48_Node000027_Node000004" title=" " alt="" coords="371,1702,390,1690,473,1617,502,1583,527,1549,567,1471,607,1368,633,1268,655,1133,673,975,687,806,707,488,716,275,722,275,713,488,693,807,678,975,660,1133,638,1269,612,1369,572,1474,532,1552,507,1587,476,1621,394,1694,374,1707"/>
+<area shape="rect" id="Node000028" href="$namespacenetcdf__utilities__mod.html#ad1aed8fb433368a14c78e5dd6102687f" title="look up and return the filename for this handle" alt="" coords="455,1705,595,1746"/>
+<area shape="poly" id="edge49_Node000027_Node000028" title=" " alt="" coords="377,1723,439,1723,439,1728,377,1728"/>
+</map>

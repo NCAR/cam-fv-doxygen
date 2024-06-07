@@ -1,0 +1,35 @@
+<map id="direct_netcdf_mod::write_model_variables" name="direct_netcdf_mod::write_model_variables">
+<area shape="rect" id="Node000001" title="Write state to the last time slice of a file when using &quot;single file io&quot;." alt="" coords="5,288,156,328"/>
+<area shape="rect" id="Node000002" href="$group__state__structure__mod.html#gac1ff557084c37c7e9ee32f2deb248c5d" title="Transform the state type to a domain that can be used to write diagnostic files. One domain for the w..." alt="" coords="204,5,344,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,286,101,243,125,187,159,127,202,71,204,69,207,73,206,75,163,130,130,189,106,245,91,288"/>
+<area shape="rect" id="Node000003" href="$group__state__structure__mod.html#gad92f36893c6ea16e86a11a6070274f66" title="Return dimension length." alt="" coords="204,109,344,150"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="93,286,137,225,168,191,202,160,208,156,212,160,205,165,172,195,141,229,97,289"/>
+<area shape="rect" id="Node000004" href="$group__state__structure__mod.html#ga9ebb1890db2ed6eabb723a70a0359c9b" title="Returns the dimension name." alt="" coords="204,198,344,239"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="125,284,213,243,215,248,128,289"/>
+<area shape="rect" id="Node000005" href="$group__state__structure__mod.html#ga3296e1af2ff8b574a2e537fffc50dbb2" title="Returns the number of dimensions for a variable." alt="" coords="204,288,344,328"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="156,305,188,305,188,311,156,311"/>
+<area shape="rect" id="Node000006" href="$group__state__structure__mod.html#ga2155f1657ec19fc8f4f4ea52c123c731" title="Returns the number of variables in the domain." alt="" coords="204,377,344,418"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="128,326,215,367,213,372,125,331"/>
+<area shape="rect" id="Node000012" href="$group__state__structure__mod.html#ga13bee77daeb47cebbc6a5afe1f996e1f" title="Returns the variable name." alt="" coords="204,466,344,507"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="103,327,205,427,237,454,233,458,202,431,100,330"/>
+<area shape="rect" id="Node000013" href="$namespacenetcdf__utilities__mod.html#ab84e952e7df4fd6a0770e9fca314b932" title="check return code from previous call. on error, print and stop. if you want to continue after an erro..." alt="" coords="205,532,343,572"/>
+<area shape="poly" id="edge17_Node000001_Node000013" title=" " alt="" coords="91,327,107,367,132,417,165,469,206,517,210,520,206,524,202,520,160,473,127,419,102,369,87,329"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="238,109,236,99,242,90,255,84,274,82,294,85,307,91,304,96,293,90,274,87,256,89,245,94,241,100,243,108"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="238,198,236,188,242,179,255,174,274,172,294,174,307,180,304,185,293,179,274,177,256,179,245,183,241,189,243,197"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="238,287,236,278,242,269,255,263,274,261,294,263,307,270,304,274,293,268,274,266,256,268,245,273,241,279,243,286"/>
+<area shape="poly" id="edge14_Node000006_Node000006" title=" " alt="" coords="238,377,236,367,242,358,255,352,274,350,294,353,307,359,304,364,293,358,274,355,256,357,245,362,241,368,243,376"/>
+<area shape="rect" id="Node000007" href="$group__state__structure__mod.html#gaa4224d79f976c86c9b1e393242b2ff67" title=" " alt="" coords="392,388,532,428"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="344,398,377,400,376,406,344,404"/>
+<area shape="rect" id="Node000008" href="$namespaceutilities__mod.html#a12b6bcff9ee2f6b821e7a01543fb0dfa" title="write to log and/or standard output, messages, warnings, debug, errors" alt="" coords="580,421,709,462"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="533,418,565,424,564,429,532,423"/>
+<area shape="rect" id="Node000009" href="$namespaceutilities__mod.html#a9e688ceaa3cb2caac0a21dcf687d21d6" title="call this routine if you find an error before the logfile has been opened." alt="" coords="760,356,887,396"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="701,418,751,399,752,404,703,423"/>
+<area shape="rect" id="Node000010" href="$namespaceutilities__mod.html#a19b014d0d1c69eb19cb8e2b5454fb428" title="call this routine if you end up in a function or subroutine here that CANNOT be called before the ini..." alt="" coords="760,421,887,462"/>
+<area shape="poly" id="edge12_Node000008_Node000010" title=" " alt="" coords="709,439,744,439,744,444,709,444"/>
+<area shape="rect" id="Node000011" href="$namespaceutilities__mod.html#a54f5adeb1920ae3e09826e1feeb09138" title="if trying to write an unformatted string, like &quot;write(*,*)&quot; to both standard output and the logfile,..." alt="" coords="757,486,890,511"/>
+<area shape="poly" id="edge13_Node000008_Node000011" title=" " alt="" coords="710,459,767,478,766,483,708,464"/>
+<area shape="poly" id="edge16_Node000012_Node000012" title=" " alt="" coords="238,466,236,456,242,447,255,442,274,440,294,442,307,448,304,453,293,447,274,445,256,447,245,451,241,457,243,465"/>
+<area shape="poly" id="edge18_Node000013_Node000008" title=" " alt="" coords="342,529,565,462,566,467,344,534"/>
+<area shape="rect" id="Node000014" href="$namespacenetcdf__utilities__mod.html#ad1aed8fb433368a14c78e5dd6102687f" title="look up and return the filename for this handle" alt="" coords="392,532,532,572"/>
+<area shape="poly" id="edge19_Node000013_Node000014" title=" " alt="" coords="343,549,377,549,377,555,343,555"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="direct_netcdf_mod::send_variables_to_write" name="direct_netcdf_mod::send_variables_to_write">
+<area shape="rect" id="Node000001" title="Send the data from a pe to a writer. Note this may be 1 variable or many. Start is the start index in..." alt="" coords="5,64,167,105"/>
+<area shape="rect" id="Node000002" href="$namespaceutilities__mod.html#a12b6bcff9ee2f6b821e7a01543fb0dfa" title="write to log and/or standard output, messages, warnings, debug, errors" alt="" coords="690,71,819,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,61,166,41,214,26,276,16,340,13,404,15,467,21,583,41,676,64,675,69,582,46,466,26,404,20,340,18,277,22,215,31,167,46,125,66"/>
+<area shape="rect" id="Node000006" href="$namespaceensemble__manager__mod.html#acd680bca47a44ef5b88a7beff4843816" title="Return the physical task for my_pe." alt="" coords="215,64,381,105"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="167,82,199,82,199,87,167,87"/>
+<area shape="rect" id="Node000007" href="$namespacempi__utilities__mod.html#af398cd54ac6d3c0b7f7f10be44eaf953" title="Send the srcarray to the destination id. If time is specified, it is also sent in a separate communic..." alt="" coords="233,129,363,170"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="155,103,219,123,217,128,153,108"/>
+<area shape="rect" id="Node000003" href="$namespaceutilities__mod.html#a9e688ceaa3cb2caac0a21dcf687d21d6" title="call this routine if you find an error before the logfile has been opened." alt="" coords="890,5,1017,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="818,68,874,49,876,54,819,73"/>
+<area shape="rect" id="Node000004" href="$namespaceutilities__mod.html#a19b014d0d1c69eb19cb8e2b5454fb428" title="call this routine if you end up in a function or subroutine here that CANNOT be called before the ini..." alt="" coords="890,71,1017,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="819,88,874,88,874,94,819,94"/>
+<area shape="rect" id="Node000005" href="$namespaceutilities__mod.html#a54f5adeb1920ae3e09826e1feeb09138" title="if trying to write an unformatted string, like &quot;write(*,*)&quot; to both standard output and the logfile,..." alt="" coords="887,136,1020,161"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="820,107,893,128,891,133,818,112"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="258,64,256,54,262,45,276,39,298,37,321,40,334,46,332,51,319,45,298,43,278,45,266,49,261,55,263,63"/>
+<area shape="poly" id="edge8_Node000007_Node000002" title=" " alt="" coords="363,133,429,122,558,105,675,94,675,100,559,111,429,127,363,139"/>
+<area shape="rect" id="Node000008" href="$namespacetime__manager__mod.html#a579c796316d18ecb716c5face232cb8c" title=" " alt="" coords="429,137,622,163"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="363,147,414,147,414,152,363,152"/>
+<area shape="poly" id="edge10_Node000008_Node000002" title=" " alt="" coords="578,134,674,109,676,114,580,139"/>
+<area shape="rect" id="Node000009" href="$namespacetime__manager__mod.html#a7cd4532f00e5dee5fa8ea45296c85675" title=" " alt="" coords="670,136,839,177"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="623,150,655,151,655,156,623,155"/>
+</map>
