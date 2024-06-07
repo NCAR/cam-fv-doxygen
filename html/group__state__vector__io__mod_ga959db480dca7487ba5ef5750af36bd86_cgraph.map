@@ -1,0 +1,44 @@
+<map id="state_vector_io_mod::print_inflation_source" name="state_vector_io_mod::print_inflation_source">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,428,158,469"/>
+<area shape="rect" id="Node000002" href="$group__adaptive__inflate.html#ga3f51d4c989b159a9a447451cae99116e" title=" " alt="" coords="220,119,365,159"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,427,96,376,118,308,154,235,177,201,204,170,208,166,212,170,208,174,181,204,158,238,123,310,101,377,89,428"/>
+<area shape="rect" id="Node000006" href="$group__adaptive__inflate.html#ga7134dfb808f160254eabf19b68618350" title=" " alt="" coords="206,184,379,225"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="87,427,103,387,127,336,161,283,204,236,210,231,213,235,207,240,165,286,132,339,107,389,92,429"/>
+<area shape="rect" id="Node000007" href="$group__adaptive__inflate.html#ga580d34a180f68c228b6024d57803e916" title=" " alt="" coords="215,249,370,290"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="93,426,138,365,169,331,204,301,212,295,215,300,207,305,172,335,142,369,98,429"/>
+<area shape="rect" id="Node000008" href="$group__state__structure__mod.html#gad2bdf8059dbbe43bc0a3a3d3c875a0bb" title="Returns the number of domains being used in the state structure." alt="" coords="222,339,363,379"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="126,425,205,390,221,383,223,388,207,395,128,430"/>
+<area shape="rect" id="Node000009" href="$group__io__filenames__mod.html#gaee132c42cb29edf14a9214b9dee5fcb5" title="Return the appropriate input file for copy and domain." alt="" coords="216,428,369,469"/>
+<area shape="poly" id="edge13_Node000001_Node000009" title=" " alt="" coords="158,446,200,446,200,451,158,451"/>
+<area shape="rect" id="Node000010" href="$group__io__filenames__mod.html#gac7552de3f9bc950310aa8a0a59dd5e5d" title="Return stage metadata from file handle." alt="" coords="216,517,369,558"/>
+<area shape="poly" id="edge15_Node000001_Node000010" title=" " alt="" coords="133,467,229,508,227,513,131,472"/>
+<area shape="rect" id="Node000011" href="$group__adaptive__inflate.html#ga6b7b01c13f591ca5aaa2450cb0c18d2e" title="Accessor functions for adaptive inflate type." alt="" coords="220,607,365,647"/>
+<area shape="poly" id="edge17_Node000001_Node000011" title=" " alt="" coords="104,467,149,515,207,568,246,596,243,600,204,572,146,519,100,471"/>
+<area shape="rect" id="Node000012" href="$group__adaptive__inflate.html#gada80847168e52a479bdf39f75653d9cb" title=" " alt="" coords="217,671,368,727"/>
+<area shape="poly" id="edge19_Node000001_Node000012" title=" " alt="" coords="93,468,108,507,133,557,166,610,208,657,211,660,207,664,204,661,162,613,128,560,104,509,88,470"/>
+<area shape="rect" id="Node000017" href="$group__adaptive__inflate.html#gae3900d28b408cedd58072e5b5d9515a7" title=" " alt="" coords="220,775,365,815"/>
+<area shape="poly" id="edge24_Node000001_Node000017" title=" " alt="" coords="90,469,103,520,126,590,161,667,183,703,208,737,238,764,235,768,204,741,178,706,156,669,122,592,98,522,85,470"/>
+<area shape="poly" id="edge6_Node000002_Node000002" title=" " alt="" coords="252,119,250,109,257,100,271,94,292,92,315,94,329,101,327,105,314,100,292,97,272,99,260,104,256,110,258,117"/>
+<area shape="rect" id="Node000003" href="$group__adaptive__inflate.html#gaaa80278515e32002fc8dfa1a431482af" title="Returns true if this inflation type indicates posterior relaxion&#45;to&#45;prior&#45;spread (whitaker &amp; Hamill,..." alt="" coords="433,29,577,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="342,116,439,74,441,79,344,121"/>
+<area shape="rect" id="Node000004" href="$group__adaptive__inflate.html#gacf585369d4524f202db4ba6ded05b5d2" title="Returns true if this inflation type indicates fixed state space inflation." alt="" coords="431,119,578,159"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="365,136,415,136,415,142,365,142"/>
+<area shape="rect" id="Node000005" href="$group__adaptive__inflate.html#gae69b6447cfe82b53b3f39111d292b661" title="Returns true if this inflation type indicates varying state space inflation." alt="" coords="427,208,582,249"/>
+<area shape="poly" id="edge7_Node000002_Node000005" title=" " alt="" coords="349,157,380,170,446,199,444,204,378,175,347,162"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="468,29,466,19,472,10,485,5,505,3,526,5,538,11,536,16,524,10,505,8,487,10,476,15,471,20,473,28"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="468,119,466,109,472,100,485,94,505,92,526,94,538,101,536,105,524,100,505,97,487,99,476,104,471,110,473,117"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="468,208,466,198,472,189,485,183,505,181,526,184,538,190,536,195,524,189,505,187,487,189,476,193,471,199,473,207"/>
+<area shape="poly" id="edge12_Node000008_Node000008" title=" " alt="" coords="252,339,250,329,257,320,271,314,292,312,315,314,329,321,327,325,314,320,292,317,272,319,260,324,256,330,258,337"/>
+<area shape="poly" id="edge14_Node000009_Node000009" title=" " alt="" coords="252,428,250,418,257,409,271,403,292,401,315,404,329,410,327,415,314,409,292,407,272,409,260,413,256,419,258,427"/>
+<area shape="poly" id="edge16_Node000010_Node000010" title=" " alt="" coords="252,517,250,507,257,498,271,493,292,491,315,493,329,499,327,504,314,498,292,496,272,498,260,503,256,508,258,516"/>
+<area shape="poly" id="edge18_Node000011_Node000011" title=" " alt="" coords="252,607,250,597,257,588,271,582,292,580,315,582,329,589,327,593,314,588,292,585,272,587,260,592,256,598,258,605"/>
+<area shape="rect" id="Node000013" href="$namespaceutilities__mod.html#a12b6bcff9ee2f6b821e7a01543fb0dfa" title="write to log and/or standard output, messages, warnings, debug, errors" alt="" coords="441,679,569,719"/>
+<area shape="poly" id="edge20_Node000012_Node000013" title=" " alt="" coords="368,696,425,696,425,702,368,702"/>
+<area shape="rect" id="Node000014" href="$namespaceutilities__mod.html#a9e688ceaa3cb2caac0a21dcf687d21d6" title="call this routine if you find an error before the logfile has been opened." alt="" coords="633,613,761,654"/>
+<area shape="poly" id="edge21_Node000013_Node000014" title=" " alt="" coords="566,676,620,657,622,662,567,681"/>
+<area shape="rect" id="Node000015" href="$namespaceutilities__mod.html#a19b014d0d1c69eb19cb8e2b5454fb428" title="call this routine if you end up in a function or subroutine here that CANNOT be called before the ini..." alt="" coords="633,679,761,719"/>
+<area shape="poly" id="edge22_Node000013_Node000015" title=" " alt="" coords="569,696,618,696,618,702,569,702"/>
+<area shape="rect" id="Node000016" href="$namespaceutilities__mod.html#a54f5adeb1920ae3e09826e1feeb09138" title="if trying to write an unformatted string, like &quot;write(*,*)&quot; to both standard output and the logfile,..." alt="" coords="630,744,764,769"/>
+<area shape="poly" id="edge23_Node000013_Node000016" title=" " alt="" coords="570,716,638,736,636,741,568,721"/>
+<area shape="poly" id="edge25_Node000017_Node000017" title=" " alt="" coords="252,775,250,765,257,756,271,750,292,748,315,750,329,757,327,761,314,756,292,753,272,755,260,760,256,766,258,773"/>
+</map>

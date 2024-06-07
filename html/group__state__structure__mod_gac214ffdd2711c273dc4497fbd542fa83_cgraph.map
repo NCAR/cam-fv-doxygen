@@ -1,0 +1,33 @@
+<map id="state_structure_mod::finished_adding_domain" name="state_structure_mod::finished_adding_domain">
+<area shape="rect" id="Node000001" title="Finalize routine when using add_domain_from_spec." alt="" coords="5,247,174,287"/>
+<area shape="rect" id="Node000002" href="$namespaceutilities__mod.html#a12b6bcff9ee2f6b821e7a01543fb0dfa" title="write to log and/or standard output, messages, warnings, debug, errors" alt="" coords="621,161,750,202"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,246,106,198,130,138,147,107,167,78,192,51,220,30,249,17,278,8,308,3,339,3,400,13,461,33,518,60,570,91,650,149,647,154,567,96,515,65,459,38,399,18,338,9,308,9,279,13,251,21,223,35,195,55,171,81,151,110,135,140,111,200,98,247"/>
+<area shape="rect" id="Node000006" href="$group__state__structure__mod.html#gad92f36893c6ea16e86a11a6070274f66" title="Return dimension length." alt="" coords="233,68,374,109"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="103,245,151,184,184,150,220,120,229,114,231,119,223,124,187,154,155,187,107,248"/>
+<area shape="rect" id="Node000007" href="$group__state__structure__mod.html#ga9ebb1890db2ed6eabb723a70a0359c9b" title="Returns the dimension name." alt="" coords="233,157,374,198"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="138,244,221,209,236,202,238,207,223,214,140,249"/>
+<area shape="rect" id="Node000008" href="$group__state__structure__mod.html#gac0a448fa70480291910bdeb4345e805c" title="Return the number of dimensions in a domain Repeat dimensions are allowed." alt="" coords="222,247,385,287"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="174,264,206,264,206,270,174,270"/>
+<area shape="rect" id="Node000009" href="$group__state__structure__mod.html#ga2451b499f472d28b8f6869dd668c5911" title="Returns the number of elements in the domain." alt="" coords="233,336,374,377"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="141,286,239,327,237,332,139,291"/>
+<area shape="rect" id="Node000011" href="$group__state__structure__mod.html#ga1c99dd9ce25dae36c2d31e3ec24ab983" title="Returns the number of dimensions for a variable." alt="" coords="233,425,374,466"/>
+<area shape="poly" id="edge15_Node000001_Node000011" title=" " alt="" coords="113,286,162,333,223,386,260,414,257,418,220,391,159,337,110,290"/>
+<area shape="rect" id="Node000012" href="$group__state__structure__mod.html#ga2155f1657ec19fc8f4f4ea52c123c731" title="Returns the number of variables in the domain." alt="" coords="233,515,374,555"/>
+<area shape="poly" id="edge17_Node000001_Node000012" title=" " alt="" coords="103,287,149,374,184,427,224,476,256,503,252,508,220,480,179,430,145,377,98,289"/>
+<area shape="rect" id="Node000003" href="$namespaceutilities__mod.html#a9e688ceaa3cb2caac0a21dcf687d21d6" title="call this routine if you find an error before the logfile has been opened." alt="" coords="801,96,928,137"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="742,158,792,140,793,145,744,163"/>
+<area shape="rect" id="Node000004" href="$namespaceutilities__mod.html#a19b014d0d1c69eb19cb8e2b5454fb428" title="call this routine if you end up in a function or subroutine here that CANNOT be called before the ini..." alt="" coords="801,161,928,202"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="750,179,785,179,785,184,750,184"/>
+<area shape="rect" id="Node000005" href="$namespaceutilities__mod.html#a54f5adeb1920ae3e09826e1feeb09138" title="if trying to write an unformatted string, like &quot;write(*,*)&quot; to both standard output and the logfile,..." alt="" coords="798,226,931,252"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="751,200,808,219,807,224,749,205"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="265,68,263,58,270,49,283,44,303,41,325,44,338,50,336,55,324,49,303,47,284,49,273,53,269,59,271,67"/>
+<area shape="poly" id="edge8_Node000007_Node000007" title=" " alt="" coords="265,157,263,148,270,139,283,133,303,131,325,133,338,139,336,144,324,138,303,136,284,138,273,143,269,149,271,156"/>
+<area shape="poly" id="edge10_Node000008_Node000008" title=" " alt="" coords="265,247,263,237,270,228,283,222,303,220,325,223,338,229,336,234,324,228,303,225,284,227,273,232,269,238,271,246"/>
+<area shape="poly" id="edge14_Node000009_Node000009" title=" " alt="" coords="265,336,263,326,270,317,283,312,303,309,325,312,338,318,336,323,324,317,303,315,284,317,273,321,269,327,271,335"/>
+<area shape="rect" id="Node000010" href="$group__state__structure__mod.html#gaa4224d79f976c86c9b1e393242b2ff67" title=" " alt="" coords="433,336,573,377"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="374,354,418,354,418,359,374,359"/>
+<area shape="poly" id="edge13_Node000010_Node000002" title=" " alt="" coords="524,334,650,211,654,215,528,338"/>
+<area shape="poly" id="edge16_Node000011_Node000011" title=" " alt="" coords="265,425,263,416,270,407,283,401,303,399,325,401,338,407,336,412,324,406,303,404,284,406,273,411,269,417,271,424"/>
+<area shape="poly" id="edge18_Node000012_Node000010" title=" " alt="" coords="335,512,383,476,431,430,472,387,476,390,435,434,387,480,338,517"/>
+<area shape="poly" id="edge19_Node000012_Node000012" title=" " alt="" coords="265,515,263,505,270,496,283,490,303,488,325,491,338,497,336,502,324,496,303,493,284,495,273,500,269,506,271,514"/>
+</map>

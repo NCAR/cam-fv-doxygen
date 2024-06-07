@@ -1,0 +1,148 @@
+<map id="state_vector_io_mod::read_restart_direct" name="state_vector_io_mod::read_restart_direct">
+<area shape="rect" id="Node000001" title="Read the restart information directly from the model netcdf file." alt="" coords="5,580,148,621"/>
+<area shape="rect" id="Node000002" href="$group__io__filenames__mod.html#gabbedf52eecf0a7779dfa315dc85d3249" title="Test whether file_info_type has been initialized Error out if not, giving the name of the calling rou..." alt="" coords="403,993,573,1034"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,619,198,720,457,980,453,984,194,724,96,623"/>
+<area shape="rect" id="Node000007" href="$group__state__structure__mod.html#gad2bdf8059dbbe43bc0a3a3d3c875a0bb" title="Returns the number of domains being used in the state structure." alt="" coords="202,515,342,555"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="138,577,194,558,195,563,140,582"/>
+<area shape="rect" id="Node000008" href="$group__io__filenames__mod.html#gaee132c42cb29edf14a9214b9dee5fcb5" title="Return the appropriate input file for copy and domain." alt="" coords="634,179,787,219"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="95,578,194,477,288,387,333,351,395,311,451,283,509,258,618,221,620,226,511,263,453,288,397,316,336,355,292,391,198,481,99,581"/>
+<area shape="rect" id="Node000009" href="$group__io__filenames__mod.html#gac7552de3f9bc950310aa8a0a59dd5e5d" title="Return stage metadata from file handle." alt="" coords="196,669,348,710"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="124,619,212,660,210,665,122,624"/>
+<area shape="rect" id="Node000010" href="$group__direct__netcdf__mod.html#ga5e6a92968fe0fa12010bff633ab92549" title="Read and transpose variables in cyclic&#45;cyclic distribution (round robbin)" alt="" coords="204,580,340,621"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="148,598,188,598,188,603,148,603"/>
+<area shape="rect" id="Node000003" href="$namespaceutilities__mod.html#a12b6bcff9ee2f6b821e7a01543fb0dfa" title="write to log and/or standard output, messages, warnings, debug, errors" alt="" coords="1330,1085,1459,1126"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="496,1034,510,1081,536,1142,554,1174,575,1203,600,1229,629,1250,715,1294,794,1320,867,1331,939,1329,1011,1315,1087,1291,1261,1221,1292,1204,1321,1182,1366,1136,1370,1140,1324,1186,1295,1208,1263,1225,1089,1296,1012,1320,939,1334,867,1337,793,1325,713,1299,626,1255,596,1233,571,1206,549,1177,531,1145,505,1083,491,1035"/>
+<area shape="rect" id="Node000004" href="$namespaceutilities__mod.html#a9e688ceaa3cb2caac0a21dcf687d21d6" title="call this routine if you find an error before the logfile has been opened." alt="" coords="1530,1020,1657,1061"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1458,1082,1514,1063,1516,1068,1459,1087"/>
+<area shape="rect" id="Node000005" href="$namespaceutilities__mod.html#a19b014d0d1c69eb19cb8e2b5454fb428" title="call this routine if you end up in a function or subroutine here that CANNOT be called before the ini..." alt="" coords="1530,1085,1657,1126"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="1459,1103,1514,1103,1514,1108,1459,1108"/>
+<area shape="rect" id="Node000006" href="$namespaceutilities__mod.html#a54f5adeb1920ae3e09826e1feeb09138" title="if trying to write an unformatted string, like &quot;write(*,*)&quot; to both standard output and the logfile,..." alt="" coords="1527,1150,1660,1176"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="1460,1122,1533,1143,1531,1148,1458,1127"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="235,515,233,505,239,496,252,490,272,488,293,490,306,497,303,501,292,496,272,493,253,495,242,500,238,506,240,513"/>
+<area shape="poly" id="edge9_Node000008_Node000008" title=" " alt="" coords="669,179,667,169,674,160,688,154,711,152,734,154,749,161,746,166,733,160,710,157,689,159,677,164,672,170,674,177"/>
+<area shape="poly" id="edge11_Node000009_Node000009" title=" " alt="" coords="235,669,233,659,239,650,252,645,272,643,293,645,306,651,303,656,292,650,272,648,253,650,242,655,238,660,240,668"/>
+<area shape="rect" id="Node000011" href="$group__direct__netcdf__mod.html#ga4ddfc9953eb0e009c773f60a75a61f78" title="Read in variables from model restart file and transpose so that every processor has all copies of a s..." alt="" coords="399,683,576,723"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="322,619,349,631,434,673,431,678,347,636,320,624"/>
+<area shape="rect" id="Node000013" href="$namespacempi__utilities__mod.html#ae8ccd09884b18c6d167291247089bd27" title="Return the total number of MPI tasks. e.g. if the number of tasks is 4, it returns 4...." alt="" coords="866,881,997,922"/>
+<area shape="poly" id="edge98_Node000010_Node000013" title=" " alt="" coords="340,591,455,584,589,582,654,585,713,593,761,605,795,624,817,649,828,675,830,702,828,729,824,785,829,813,844,843,873,871,869,875,840,846,824,815,818,785,822,728,825,701,823,676,813,652,792,628,759,610,712,598,654,591,589,587,455,589,341,597"/>
+<area shape="rect" id="Node000047" href="$group__direct__netcdf__mod.html#ga5bd1c0ced6a496672242e6b11e230b18" title="Single processor version of read_transpose. Reads ens_size whole vectors from netcdf files and fills ..." alt="" coords="396,325,579,366"/>
+<area shape="poly" id="edge89_Node000010_Node000047" title=" " alt="" coords="329,577,346,565,388,521,423,470,451,421,470,379,475,381,455,423,428,473,392,524,350,569,332,582"/>
+<area shape="poly" id="edge25_Node000011_Node000008" title=" " alt="" coords="492,682,565,427,625,231,628,227,632,231,630,234,570,428,497,683"/>
+<area shape="rect" id="Node000012" href="$group__direct__netcdf__mod.html#ga806acc05ff4f8aaa9db2906f9df08c47" title="Find i, the start point in var_block for a given recv_pe This is assuming round robin...." alt="" coords="642,727,779,767"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="577,718,628,728,627,733,576,723"/>
+<area shape="poly" id="edge77_Node000011_Node000013" title=" " alt="" coords="505,722,555,783,589,815,629,842,684,866,742,882,799,892,851,897,851,902,798,897,741,887,682,871,626,847,586,819,551,787,501,725"/>
+<area shape="rect" id="Node000014" href="$group__state__structure__mod.html#ga2155f1657ec19fc8f4f4ea52c123c731" title="Returns the number of variables in the domain." alt="" coords="640,268,781,309"/>
+<area shape="poly" id="edge19_Node000011_Node000014" title=" " alt="" coords="493,681,539,548,578,461,625,376,649,345,674,318,678,321,653,348,630,379,583,464,544,550,498,683"/>
+<area shape="rect" id="Node000016" href="$group__direct__netcdf__mod.html#ga637259129bab7191a953fc685b83b23f" title="Find pes for loop indices if you have M tasks and N ensemble members, only the first N + extra copy t..." alt="" coords="642,792,779,833"/>
+<area shape="poly" id="edge23_Node000011_Node000016" title=" " alt="" coords="525,721,629,777,642,783,640,788,626,781,523,726"/>
+<area shape="rect" id="Node000017" href="$group__direct__netcdf__mod.html#gac406bea6ff4528072fe75da92c522693" title="Give the rank of the processor that owns the start of a variable." alt="" coords="642,1020,779,1061"/>
+<area shape="poly" id="edge26_Node000011_Node000017" title=" " alt="" coords="498,723,515,772,543,839,581,913,629,981,661,1009,657,1013,625,985,576,916,538,842,510,774,493,725"/>
+<area shape="rect" id="Node000019" href="$group__state__structure__mod.html#ga91113dc7ea473460732b592efbe08eeb" title="Returns the number of elements in range of start_var and end_var." alt="" coords="640,931,781,971"/>
+<area shape="poly" id="edge31_Node000011_Node000019" title=" " alt="" coords="504,722,555,798,591,843,629,886,668,919,664,923,625,890,586,847,551,801,500,725"/>
+<area shape="rect" id="Node000020" href="$namespacenetcdf__utilities__mod.html#ab84e952e7df4fd6a0770e9fca314b932" title="check return code from previous call. on error, print and stop. if you want to continue after an erro..." alt="" coords="863,165,1000,206"/>
+<area shape="poly" id="edge33_Node000011_Node000020" title=" " alt="" coords="491,682,505,629,531,559,570,484,596,450,626,420,648,405,670,397,712,394,752,390,772,382,792,366,806,349,813,331,815,294,818,256,825,237,840,217,848,210,852,214,844,221,830,239,823,257,821,294,818,332,810,351,796,370,775,387,753,395,712,399,671,402,650,409,629,424,600,453,575,487,536,561,510,631,496,683"/>
+<area shape="rect" id="Node000022" href="$group__direct__netcdf__mod.html#ga6de05cb71d2bbee35200331c64f5a4c5" title="Calculate number of elements going to the receiving pe (read_transpose) Or being sent from the sendin..." alt="" coords="636,637,785,678"/>
+<area shape="poly" id="edge36_Node000011_Node000022" title=" " alt="" coords="576,682,620,673,622,678,577,688"/>
+<area shape="rect" id="Node000023" href="$group__io__filenames__mod.html#gadfeeb6444bd6eba53b227209efced814" title="returns true/false depending on whether you should read this copy" alt="" coords="627,523,794,563"/>
+<area shape="poly" id="edge38_Node000011_Node000023" title=" " alt="" coords="516,680,667,571,670,575,519,684"/>
+<area shape="rect" id="Node000025" href="$group__direct__netcdf__mod.html#ga5ff418907b25b36edeaf6a7bae9f42a2" title="Read in variables from start_var to end_var Read the latest time slice in the file." alt="" coords="642,433,779,474"/>
+<area shape="poly" id="edge41_Node000011_Node000025" title=" " alt="" coords="495,681,513,640,541,588,579,533,626,485,632,480,635,484,629,489,583,537,546,591,518,643,500,683"/>
+<area shape="rect" id="Node000037" href="$group__direct__netcdf__mod.html#gad4f365fad4bff8aeef537b79fa8c65c6" title="Send elements of variables to a processor. This routine must be called with a corresponding &#39;wait_to_..." alt="" coords="637,1085,784,1126"/>
+<area shape="poly" id="edge67_Node000011_Node000037" title=" " alt="" coords="498,723,563,915,602,1016,618,1051,629,1071,633,1074,630,1078,625,1074,613,1054,597,1018,558,917,493,725"/>
+<area shape="rect" id="Node000042" href="$group__direct__netcdf__mod.html#ga7b0931795ec7b987d9782e4998a62b51" title="Receive data from a reader. Start and finish are the local indicies in the copies array for the data ..." alt="" coords="642,1200,779,1241"/>
+<area shape="poly" id="edge78_Node000011_Node000042" title=" " alt="" coords="498,723,582,981,593,1026,600,1062,610,1096,630,1136,650,1164,673,1187,669,1191,646,1167,625,1139,605,1098,595,1063,588,1027,577,982,493,725"/>
+<area shape="poly" id="edge15_Node000012_Node000012" title=" " alt="" coords="669,727,667,717,674,708,688,702,711,700,734,702,749,709,746,714,733,708,710,705,689,707,677,712,672,718,674,725"/>
+<area shape="poly" id="edge16_Node000012_Node000013" title=" " alt="" coords="775,766,795,778,811,794,821,810,829,826,844,842,881,871,878,875,840,846,825,829,816,813,807,798,792,782,772,770"/>
+<area shape="poly" id="edge17_Node000013_Node000003" title=" " alt="" coords="989,920,1022,932,1144,977,1197,997,1264,1027,1349,1075,1346,1079,1261,1032,1195,1002,1142,982,1020,938,987,925"/>
+<area shape="poly" id="edge18_Node000013_Node000013" title=" " alt="" coords="890,881,888,871,894,862,909,857,931,855,955,857,969,863,967,868,954,862,931,860,910,862,898,867,893,873,895,880"/>
+<area shape="poly" id="edge22_Node000014_Node000014" title=" " alt="" coords="669,268,667,258,674,249,688,243,711,241,734,244,749,250,746,255,733,249,710,247,689,249,677,253,672,259,674,267"/>
+<area shape="rect" id="Node000015" href="$group__state__structure__mod.html#gaa4224d79f976c86c9b1e393242b2ff67" title=" " alt="" coords="1096,35,1236,75"/>
+<area shape="poly" id="edge20_Node000014_Node000015" title=" " alt="" coords="751,265,773,249,791,229,804,207,809,185,809,142,809,121,812,101,822,81,840,62,867,45,897,33,928,25,960,21,1023,22,1081,30,1080,35,1023,27,960,26,929,30,898,38,870,50,843,66,826,84,817,102,814,121,814,142,814,185,809,209,796,233,776,253,754,270"/>
+<area shape="poly" id="edge21_Node000015_Node000003" title=" " alt="" coords="1224,74,1246,88,1265,108,1284,144,1302,190,1331,305,1353,443,1370,591,1389,876,1395,1070,1390,1070,1384,876,1364,592,1348,443,1326,306,1296,192,1279,147,1260,111,1243,93,1221,78"/>
+<area shape="poly" id="edge24_Node000016_Node000013" title=" " alt="" coords="764,831,866,872,864,877,762,836"/>
+<area shape="poly" id="edge30_Node000017_Node000013" title=" " alt="" coords="743,1017,792,981,815,956,840,933,851,927,854,931,843,937,819,960,795,985,746,1022"/>
+<area shape="poly" id="edge27_Node000017_Node000017" title=" " alt="" coords="669,1020,667,1010,674,1001,688,995,711,993,734,996,749,1002,746,1007,733,1001,710,999,689,1001,677,1005,672,1011,674,1019"/>
+<area shape="rect" id="Node000018" href="$group__state__structure__mod.html#ga261df8f47257ac984382557390f0aa45" title="Returns the number of variables below start_var." alt="" coords="842,971,1021,1011"/>
+<area shape="poly" id="edge28_Node000017_Node000018" title=" " alt="" coords="778,1023,826,1012,827,1017,780,1028"/>
+<area shape="poly" id="edge29_Node000018_Node000018" title=" " alt="" coords="890,971,888,961,894,952,909,946,931,944,955,946,969,953,967,958,954,952,931,949,910,951,898,956,893,962,895,969"/>
+<area shape="poly" id="edge32_Node000019_Node000019" title=" " alt="" coords="669,931,667,921,674,912,688,906,711,904,734,906,749,913,746,918,733,912,710,909,689,911,677,916,672,922,674,929"/>
+<area shape="poly" id="edge34_Node000020_Node000003" title=" " alt="" coords="1000,166,1063,158,1133,158,1169,163,1203,172,1236,188,1264,209,1287,237,1307,275,1324,321,1339,373,1363,495,1379,628,1389,762,1394,888,1396,1070,1391,1070,1389,888,1383,763,1374,628,1358,495,1334,375,1319,322,1302,277,1283,240,1260,213,1233,192,1202,177,1168,168,1133,163,1063,163,1001,171"/>
+<area shape="rect" id="Node000021" href="$namespacenetcdf__utilities__mod.html#ad1aed8fb433368a14c78e5dd6102687f" title="look up and return the filename for this handle" alt="" coords="1096,223,1236,263"/>
+<area shape="poly" id="edge35_Node000020_Node000021" title=" " alt="" coords="1001,200,1081,220,1080,225,1000,205"/>
+<area shape="poly" id="edge37_Node000022_Node000013" title=" " alt="" coords="780,677,796,689,810,709,818,728,822,766,825,803,832,822,844,843,874,871,871,875,840,846,827,825,820,804,817,766,813,730,806,712,792,693,777,681"/>
+<area shape="poly" id="edge40_Node000023_Node000023" title=" " alt="" coords="669,523,667,513,674,504,688,498,711,496,734,498,749,505,746,510,733,504,710,501,689,503,677,508,672,514,674,521"/>
+<area shape="rect" id="Node000024" href="$group__io__filenames__mod.html#ga9fa6e6da53eaa8044c7986a245b90638" title="Assert if a copy is in a valid range." alt="" coords="846,792,1017,833"/>
+<area shape="poly" id="edge39_Node000023_Node000024" title=" " alt="" coords="774,562,796,580,812,606,819,632,819,681,818,705,820,729,827,753,844,777,846,780,843,784,840,781,822,755,814,730,813,705,814,681,814,633,807,609,792,583,771,566"/>
+<area shape="poly" id="edge59_Node000025_Node000020" title=" " alt="" coords="771,431,792,413,807,388,814,364,814,316,813,292,814,268,822,243,840,217,848,209,852,213,844,221,827,245,820,269,818,292,819,316,819,365,812,390,796,417,774,435"/>
+<area shape="rect" id="Node000026" href="$group__state__structure__mod.html#gac8402c2505f0506c3e8c91810c18ce74" title="Return and array containing the dimension lengths, for the DART state excluding the UNLIMITED dim." alt="" coords="861,523,1002,563"/>
+<area shape="poly" id="edge42_Node000025_Node000026" title=" " alt="" coords="764,472,795,485,867,514,865,519,793,489,762,477"/>
+<area shape="rect" id="Node000027" href="$group__state__structure__mod.html#ga1c99dd9ce25dae36c2d31e3ec24ab983" title="Returns the number of dimensions for a variable." alt="" coords="1096,535,1236,575"/>
+<area shape="poly" id="edge50_Node000025_Node000027" title=" " alt="" coords="777,472,796,485,812,509,818,533,825,555,832,564,843,573,873,587,905,596,938,600,971,600,1037,592,1094,578,1096,583,1038,598,972,606,937,605,904,601,871,592,840,577,828,568,820,557,813,534,807,511,792,489,774,477"/>
+<area shape="rect" id="Node000028" href="$group__state__structure__mod.html#ga3296e1af2ff8b574a2e537fffc50dbb2" title="Returns the number of dimensions for a variable." alt="" coords="861,661,1002,702"/>
+<area shape="poly" id="edge46_Node000025_Node000028" title=" " alt="" coords="780,473,796,485,809,502,817,519,822,551,827,583,833,600,844,617,860,635,879,650,876,654,857,639,840,621,828,602,822,584,817,552,812,520,804,505,792,489,776,477"/>
+<area shape="rect" id="Node000029" href="$namespaceoptions__mod.html#a536448bfef7c5c838d79e714ca7bbb6a" title=" " alt="" coords="845,255,1018,295"/>
+<area shape="poly" id="edge48_Node000025_Node000029" title=" " alt="" coords="768,431,792,413,809,387,815,361,821,334,828,320,840,306,845,302,848,306,844,310,832,323,826,336,820,362,814,389,796,417,771,435"/>
+<area shape="rect" id="Node000030" href="$group__state__structure__mod.html#ga13bee77daeb47cebbc6a5afe1f996e1f" title="Returns the variable name." alt="" coords="861,344,1002,385"/>
+<area shape="poly" id="edge51_Node000025_Node000030" title=" " alt="" coords="757,430,841,395,858,388,860,393,843,400,760,435"/>
+<area shape="rect" id="Node000031" href="$group__state__structure__mod.html#gaed482c290580f45e54eac3d6b161acc4" title="Returns the size of a variable in a specific domain." alt="" coords="861,100,1002,141"/>
+<area shape="poly" id="edge53_Node000025_Node000031" title=" " alt="" coords="725,431,758,382,791,319,800,295,804,272,807,231,814,193,824,173,840,152,846,146,850,149,844,155,828,176,819,195,812,232,810,273,805,296,796,321,762,384,729,434"/>
+<area shape="rect" id="Node000032" href="$group__state__structure__mod.html#ga9966d44b1adb8875a8d887e2e5a4181b" title="Return whether the domain has an unlimited dimension." alt="" coords="861,433,1002,474"/>
+<area shape="poly" id="edge57_Node000025_Node000032" title=" " alt="" coords="779,451,846,451,846,456,779,456"/>
+<area shape="rect" id="Node000033" href="$group__direct__netcdf__mod.html#ga5cfe0a8ae9bd2d3677457afeeb15226e" title="replace the netCDF missing_value or _FillValue with the DART missing value." alt="" coords="852,727,1011,767"/>
+<area shape="poly" id="edge60_Node000025_Node000033" title=" " alt="" coords="781,472,796,485,814,515,822,544,823,573,820,601,817,629,818,656,825,684,844,712,846,715,843,719,840,715,821,686,813,657,812,628,815,600,818,573,817,545,809,517,792,489,777,476"/>
+<area shape="poly" id="edge43_Node000026_Node000026" title=" " alt="" coords="890,523,888,513,894,504,909,498,931,496,955,498,969,505,967,510,954,504,931,501,910,503,898,508,893,514,895,521"/>
+<area shape="poly" id="edge44_Node000026_Node000027" title=" " alt="" coords="1002,544,1080,548,1080,553,1001,549"/>
+<area shape="poly" id="edge45_Node000027_Node000027" title=" " alt="" coords="1123,535,1120,525,1127,516,1143,510,1166,508,1190,510,1205,517,1203,522,1189,516,1166,513,1144,515,1131,520,1126,526,1128,533"/>
+<area shape="poly" id="edge47_Node000028_Node000028" title=" " alt="" coords="890,661,888,651,894,642,909,637,931,635,955,637,969,643,967,648,954,642,931,640,910,642,898,647,893,653,895,660"/>
+<area shape="poly" id="edge49_Node000029_Node000029" title=" " alt="" coords="890,255,888,245,894,236,909,230,931,228,955,230,969,237,967,242,954,236,931,233,910,235,898,240,893,246,895,253"/>
+<area shape="poly" id="edge52_Node000030_Node000030" title=" " alt="" coords="890,344,888,334,894,325,909,319,931,317,955,320,969,326,967,331,954,325,931,323,910,325,898,329,893,335,895,343"/>
+<area shape="poly" id="edge55_Node000031_Node000003" title=" " alt="" coords="1002,106,1065,102,1135,106,1171,114,1205,126,1236,142,1264,165,1287,195,1308,236,1325,284,1340,340,1364,468,1380,608,1390,749,1395,881,1396,1070,1391,1070,1389,881,1384,750,1374,609,1359,469,1335,341,1320,286,1303,238,1283,198,1260,169,1233,147,1203,131,1169,119,1135,112,1065,107,1002,111"/>
+<area shape="poly" id="edge54_Node000031_Node000015" title=" " alt="" coords="1001,98,1080,76,1081,81,1002,103"/>
+<area shape="poly" id="edge56_Node000031_Node000031" title=" " alt="" coords="890,100,888,90,894,81,909,75,931,73,955,76,969,82,967,87,954,81,931,79,910,81,898,85,893,91,895,99"/>
+<area shape="poly" id="edge58_Node000032_Node000032" title=" " alt="" coords="890,433,888,423,894,414,909,409,931,407,955,409,969,415,967,420,954,414,931,412,910,414,898,419,893,425,895,432"/>
+<area shape="rect" id="Node000034" href="$group__state__structure__mod.html#gaba0e71d34ddf5ca56d1ee3cb4dcf291d" title="Return .true. if the variable has a &#39;FillValue&#39;." alt="" coords="1096,816,1236,857"/>
+<area shape="poly" id="edge61_Node000033_Node000034" title=" " alt="" coords="989,765,1022,778,1098,807,1096,812,1020,783,987,770"/>
+<area shape="rect" id="Node000035" href="$group__state__structure__mod.html#gaf9b49db0f0b3c932f1a2d53819516c91" title="Return .true. if the variable has a &#39;missing_value&#39;." alt="" coords="1083,637,1248,678"/>
+<area shape="poly" id="edge63_Node000033_Node000035" title=" " alt="" coords="989,724,1020,711,1068,689,1086,681,1088,686,1070,693,1022,716,991,729"/>
+<area shape="rect" id="Node000036" href="$group__state__structure__mod.html#gae70d16314c72c97cf3d1dbdac38e4552" title="Return netCDF type of a variable (aka &#39;xtype&#39;)" alt="" coords="1096,727,1236,767"/>
+<area shape="poly" id="edge65_Node000033_Node000036" title=" " alt="" coords="1011,744,1080,744,1080,750,1011,750"/>
+<area shape="poly" id="edge62_Node000034_Node000034" title=" " alt="" coords="1123,816,1120,806,1127,797,1143,791,1166,789,1190,792,1205,798,1203,803,1189,797,1166,795,1144,797,1131,801,1126,807,1128,815"/>
+<area shape="poly" id="edge64_Node000035_Node000035" title=" " alt="" coords="1123,637,1120,627,1127,618,1143,613,1166,611,1190,613,1205,619,1203,624,1189,618,1166,616,1144,618,1131,623,1126,629,1128,636"/>
+<area shape="poly" id="edge66_Node000036_Node000036" title=" " alt="" coords="1123,727,1120,717,1127,708,1143,702,1166,700,1190,702,1205,709,1203,714,1189,708,1166,705,1144,707,1131,712,1126,718,1128,725"/>
+<area shape="poly" id="edge68_Node000037_Node000003" title=" " alt="" coords="783,1082,841,1071,971,1063,1101,1067,1220,1077,1315,1090,1315,1095,1219,1082,1101,1072,971,1068,842,1076,784,1087"/>
+<area shape="poly" id="edge76_Node000037_Node000013" title=" " alt="" coords="776,1083,792,1070,804,1054,811,1037,815,1003,819,969,826,951,840,933,851,924,854,928,844,937,831,954,824,970,820,1004,816,1038,809,1056,796,1074,780,1087"/>
+<area shape="rect" id="Node000038" href="$namespaceensemble__manager__mod.html#acd680bca47a44ef5b88a7beff4843816" title="Return the physical task for my_pe." alt="" coords="848,1175,1015,1215"/>
+<area shape="poly" id="edge69_Node000037_Node000038" title=" " alt="" coords="764,1124,866,1166,864,1171,762,1129"/>
+<area shape="rect" id="Node000039" href="$namespacempi__utilities__mod.html#af398cd54ac6d3c0b7f7f10be44eaf953" title="Send the srcarray to the destination id. If time is specified, it is also sent in a separate communic..." alt="" coords="866,1085,997,1126"/>
+<area shape="poly" id="edge71_Node000037_Node000039" title=" " alt="" coords="784,1103,850,1103,850,1108,784,1108"/>
+<area shape="poly" id="edge70_Node000038_Node000038" title=" " alt="" coords="890,1175,888,1165,894,1156,909,1150,931,1148,955,1150,969,1157,967,1162,954,1156,931,1153,910,1155,898,1160,893,1166,895,1173"/>
+<area shape="poly" id="edge72_Node000039_Node000003" title=" " alt="" coords="997,1103,1315,1103,1315,1108,997,1108"/>
+<area shape="rect" id="Node000040" href="$namespacetime__manager__mod.html#a579c796316d18ecb716c5face232cb8c" title=" " alt="" coords="1069,1392,1262,1417"/>
+<area shape="poly" id="edge73_Node000039_Node000040" title=" " alt="" coords="998,1121,1023,1137,1050,1164,1074,1195,1114,1262,1142,1325,1159,1376,1154,1377,1137,1327,1109,1264,1070,1198,1046,1168,1019,1141,996,1126"/>
+<area shape="poly" id="edge74_Node000040_Node000003" title=" " alt="" coords="1229,1389,1261,1370,1286,1345,1308,1316,1343,1253,1367,1192,1383,1140,1388,1142,1372,1193,1348,1256,1312,1319,1290,1348,1264,1374,1232,1393"/>
+<area shape="rect" id="Node000041" href="$namespacetime__manager__mod.html#a7cd4532f00e5dee5fa8ea45296c85675" title=" " alt="" coords="1310,1416,1479,1457"/>
+<area shape="poly" id="edge75_Node000040_Node000041" title=" " alt="" coords="1263,1415,1295,1420,1294,1425,1262,1420"/>
+<area shape="poly" id="edge79_Node000042_Node000003" title=" " alt="" coords="779,1222,842,1224,932,1230,971,1230,1021,1224,1106,1206,1191,1182,1331,1130,1333,1135,1192,1187,1108,1211,1021,1230,971,1235,932,1235,842,1230,779,1227"/>
+<area shape="poly" id="edge80_Node000042_Node000038" title=" " alt="" coords="779,1210,832,1204,833,1209,779,1215"/>
+<area shape="rect" id="Node000043" href="$namespacempi__utilities__mod.html#adec13c965903d1181b4379234d4cc602" title="Receive data into the destination array from the src task. If time is specified, it is received in a ..." alt="" coords="866,1399,997,1439"/>
+<area shape="poly" id="edge81_Node000042_Node000043" title=" " alt="" coords="737,1239,898,1386,894,1390,733,1243"/>
+<area shape="poly" id="edge82_Node000043_Node000003" title=" " alt="" coords="996,1398,1261,1319,1302,1278,1336,1230,1361,1181,1379,1139,1384,1142,1366,1183,1340,1233,1306,1282,1264,1324,998,1403"/>
+<area shape="rect" id="Node000044" href="$namespacetime__manager__mod.html#a49d0e8625bf9d4526a982406e7cd5415" title=" " alt="" coords="1069,1465,1262,1491"/>
+<area shape="poly" id="edge83_Node000043_Node000044" title=" " alt="" coords="997,1433,1097,1458,1096,1463,996,1438"/>
+<area shape="rect" id="Node000045" href="$status_8f.html#ad8a3d1b45f0635666e1570308968da0d" title=" " alt="" coords="1137,1514,1194,1540"/>
+<area shape="poly" id="edge87_Node000043_Node000045" title=" " alt="" coords="962,1437,1011,1470,1070,1501,1123,1517,1121,1522,1068,1505,1008,1474,959,1442"/>
+<area shape="poly" id="edge84_Node000044_Node000003" title=" " alt="" coords="1208,1462,1236,1448,1260,1428,1288,1394,1311,1357,1347,1277,1371,1201,1385,1141,1390,1142,1376,1203,1352,1279,1316,1359,1292,1397,1264,1432,1238,1452,1210,1467"/>
+<area shape="poly" id="edge86_Node000044_Node000041" title=" " alt="" coords="1240,1462,1295,1452,1296,1457,1241,1467"/>
+<area shape="poly" id="edge85_Node000044_Node000044" title=" " alt="" coords="1128,1466,1120,1456,1125,1446,1140,1440,1166,1438,1194,1441,1208,1448,1206,1452,1192,1446,1166,1443,1141,1446,1128,1450,1126,1456,1132,1463"/>
+<area shape="rect" id="Node000046" href="$bort_8f.html#adc4659c5e9171f22248cf61e054ddd17" title=" " alt="" coords="1373,1514,1416,1540"/>
+<area shape="poly" id="edge88_Node000045_Node000046" title=" " alt="" coords="1195,1524,1358,1524,1358,1530,1195,1530"/>
+<area shape="poly" id="edge94_Node000047_Node000008" title=" " alt="" coords="508,323,560,277,626,230,637,224,639,229,629,235,563,282,512,327"/>
+<area shape="poly" id="edge93_Node000047_Node000014" title=" " alt="" coords="568,322,625,308,626,313,570,327"/>
+<area shape="poly" id="edge95_Node000047_Node000020" title=" " alt="" coords="580,358,632,360,688,356,742,343,792,318,804,308,811,296,817,271,822,244,829,230,840,217,848,211,851,215,844,221,833,233,827,246,822,272,816,298,808,311,795,323,744,348,688,361,632,365,580,363"/>
+<area shape="poly" id="edge96_Node000047_Node000023" title=" " alt="" coords="509,364,561,420,629,484,666,512,663,516,626,488,558,424,505,368"/>
+<area shape="poly" id="edge97_Node000047_Node000025" title=" " alt="" coords="533,364,654,424,652,429,530,369"/>
+<area shape="rect" id="Node000048" href="$group__state__structure__mod.html#ga2451b499f472d28b8f6869dd668c5911" title="Returns the number of elements in the domain." alt="" coords="640,29,781,70"/>
+<area shape="poly" id="edge90_Node000047_Node000048" title=" " alt="" coords="500,323,553,242,625,141,678,80,682,83,629,145,557,245,504,326"/>
+<area shape="poly" id="edge91_Node000048_Node000015" title=" " alt="" coords="781,28,841,18,931,11,1021,18,1081,29,1080,34,1021,23,931,16,842,23,782,34"/>
+<area shape="poly" id="edge92_Node000048_Node000048" title=" " alt="" coords="669,29,667,19,674,10,688,5,711,3,734,5,749,11,746,16,733,10,710,8,689,10,677,15,672,21,674,28"/>
+</map>
