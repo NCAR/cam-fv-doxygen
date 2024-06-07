@@ -1,0 +1,15 @@
+<map id="mpi_utilities_mod::array_broadcast" name="mpi_utilities_mod::array_broadcast">
+<area shape="rect" id="Node000001" title="The data array values on the root task will be broadcast to every other task. When this routine retur..." alt="" coords="5,71,136,111"/>
+<area shape="rect" id="Node000002" href="$namespaceutilities__mod.html#a12b6bcff9ee2f6b821e7a01543fb0dfa" title="write to log and/or standard output, messages, warnings, debug, errors" alt="" coords="362,71,490,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,78,183,72,249,69,314,72,347,76,346,81,314,78,249,75,184,78,136,83"/>
+<area shape="rect" id="Node000006" href="$namespacempi__utilities__mod.html#ae08b6543f55b372bd6addea0eb1e04a0" title="Return my unique task id. Values run from 0 to N&#45;1 (where N is the total number of MPI tasks." alt="" coords="184,111,314,151"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="137,103,169,110,168,116,136,108"/>
+<area shape="rect" id="Node000003" href="$namespaceutilities__mod.html#a9e688ceaa3cb2caac0a21dcf687d21d6" title="call this routine if you find an error before the logfile has been opened." alt="" coords="541,5,669,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="483,68,532,49,534,54,485,73"/>
+<area shape="rect" id="Node000004" href="$namespaceutilities__mod.html#a19b014d0d1c69eb19cb8e2b5454fb428" title="call this routine if you end up in a function or subroutine here that CANNOT be called before the ini..." alt="" coords="541,71,669,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="491,88,526,88,526,94,491,94"/>
+<area shape="rect" id="Node000005" href="$namespaceutilities__mod.html#a54f5adeb1920ae3e09826e1feeb09138" title="if trying to write an unformatted string, like &quot;write(*,*)&quot; to both standard output and the logfile,..." alt="" coords="538,136,672,161"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="491,109,549,128,547,133,490,114"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="314,114,346,106,347,111,315,119"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="215,111,213,101,219,92,231,86,249,84,268,86,280,93,277,97,267,92,249,89,232,91,222,96,218,102,220,110"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="mpi_utilities_mod::all_reduce_min_max" name="mpi_utilities_mod::all_reduce_min_max">
+<area shape="rect" id="Node000001" title="cover routine which is deprecated. when all user code replaces this with broadcast_minmax(),..." alt="" coords="5,116,146,157"/>
+<area shape="rect" id="Node000002" href="$namespacempi__utilities__mod.html#a4f8d101d8c90b83ed4392eac20339b37" title="Find min and max of each element of an array, put the result on every task. Overwrites arrays min_var..." alt="" coords="194,116,325,157"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,134,178,134,178,139,146,139"/>
+<area shape="rect" id="Node000003" href="$namespaceutilities__mod.html#a12b6bcff9ee2f6b821e7a01543fb0dfa" title="write to log and/or standard output, messages, warnings, debug, errors" alt="" coords="379,71,507,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="325,118,363,108,364,113,326,123"/>
+<area shape="rect" id="Node000007" href="$namespacempi__utilities__mod.html#adc06ffeb863472ff64785cbd82cc36d7" title="return our communicator" alt="" coords="373,160,512,201"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="326,150,359,157,357,163,325,155"/>
+<area shape="rect" id="Node000004" href="$namespaceutilities__mod.html#a9e688ceaa3cb2caac0a21dcf687d21d6" title="call this routine if you find an error before the logfile has been opened." alt="" coords="563,5,691,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="501,68,553,49,554,54,503,73"/>
+<area shape="rect" id="Node000005" href="$namespaceutilities__mod.html#a19b014d0d1c69eb19cb8e2b5454fb428" title="call this routine if you end up in a function or subroutine here that CANNOT be called before the ini..." alt="" coords="563,71,691,111"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="507,88,548,88,548,94,507,94"/>
+<area shape="rect" id="Node000006" href="$namespaceutilities__mod.html#a54f5adeb1920ae3e09826e1feeb09138" title="if trying to write an unformatted string, like &quot;write(*,*)&quot; to both standard output and the logfile,..." alt="" coords="560,136,694,161"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="508,108,570,128,568,133,506,113"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="408,160,406,150,412,141,424,135,443,133,463,136,475,142,472,147,461,141,443,139,425,141,415,145,411,151,413,159"/>
+</map>

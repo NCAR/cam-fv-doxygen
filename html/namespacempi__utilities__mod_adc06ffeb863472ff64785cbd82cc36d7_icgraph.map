@@ -1,0 +1,31 @@
+<map id="mpi_utilities_mod::get_dart_mpi_comm" name="mpi_utilities_mod::get_dart_mpi_comm">
+<area shape="rect" id="Node000001" title="return our communicator" alt="" coords="686,128,825,169"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="785,115,774,109,755,107,738,109,728,113,724,119,725,127,720,128,719,118,724,109,737,103,755,101,775,104,787,110"/>
+<area shape="rect" id="Node000002" href="$namespacempi__utilities__mod.html#a4f8d101d8c90b83ed4392eac20339b37" title="Find min and max of each element of an array, put the result on every task. Overwrites arrays min_var..." alt="" coords="506,20,638,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="705,122,607,63,609,59,707,117"/>
+<area shape="rect" id="Node000004" href="$interfacempi__utilities__mod_1_1sum__across__tasks.html#a08c91f45d4a7bbe8dd5b32513dc2c43a" title="take values from each task, add them, and return the sum to all tasks. real version." alt="" coords="294,70,458,126"/>
+<area shape="poly" id="edge16_Node000001_Node000004" title=" " alt="" coords="670,132,637,126,545,114,458,106,459,100,545,108,638,120,671,126"/>
+<area shape="rect" id="Node000005" href="$mpi__utilities__mod_8f90.html#a8bd9d46f9aecd5100fb21f43fcadfc12" title="NOTE: non&#45;module code, so this subroutine can be called from the utilities module,..." alt="" coords="541,136,603,161"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="670,151,604,151,604,146,670,146"/>
+<area shape="rect" id="Node000006" href="$namespacempi__utilities__mod.html#aacbda19146b5ad3f0a75eb6cbfd57393" title="Collect global min and max values on one task." alt="" coords="507,185,637,226"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="674,176,638,188,637,183,673,171"/>
+<area shape="rect" id="Node000010" href="$namespacempi__utilities__mod.html#a5dd51bd03e7b1ac3711b8ffb434e8db9" title="Sum array items across all tasks and send results in an array of same size to one task." alt="" coords="507,265,637,306"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="717,180,639,240,603,267,600,263,636,236,714,176"/>
+<area shape="rect" id="Node000003" href="$namespacempi__utilities__mod.html#a6186c753fcfb54ac3ca322c74573992e" title="cover routine which is deprecated. when all user code replaces this with broadcast_minmax(),..." alt="" coords="306,5,446,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="491,37,447,34,447,28,491,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="492,66,460,76,458,71,491,61"/>
+<area shape="rect" id="Node000007" href="$group__adaptive__inflate.html#gabcdf2fa88b452f8772a4812d1696b2fb" title="Collect the min and max of inflation on task 0 this block handles communicating the min/max local val..." alt="" coords="294,167,458,207"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="491,201,458,198,459,192,492,195"/>
+<area shape="rect" id="Node000008" href="$namespacefilter__mod.html#ab534c6a0fba7c3dc09e5e1d7d4081725" title="The code does not use vars arrays except:" alt="" coords="100,174,246,200"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="279,190,246,190,246,184,279,184"/>
+<area shape="rect" id="Node000009" href="$filter_8f90.html#a3e86f9737a8d44a69560730870a3b5f4" title="Main DART Ensemble Filtering Program." alt="" coords="5,174,52,200"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="84,190,52,190,52,184,84,184"/>
+<area shape="rect" id="Node000011" href="$closest__member__tool_8f90.html#a7e46bc7a5ff90cd4579f151415c605aa" title="Select the member closest to the ensemble mean." alt="" coords="100,269,246,295"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="491,276,458,272,376,269,294,272,246,276,245,271,294,267,376,264,459,267,492,270"/>
+<area shape="rect" id="Node000012" href="$closest__member__tool_8f90.html#a3ab53a58e7ea809aec11eef145bb0a91" title=" " alt="" coords="328,306,424,332"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="492,302,425,314,424,308,491,297"/>
+<area shape="rect" id="Node000013" href="$perturb__single__instance_8f90.html#aff26cf01390ffd898782721077437137" title="This is a utility program that computes an ensemble of restarts using the model_mod pert_model_copies..." alt="" coords="297,356,455,381"/>
+<area shape="poly" id="edge15_Node000010_Node000013" title=" " alt="" coords="523,316,459,347,429,357,427,352,457,342,520,311"/>
+<area shape="poly" id="edge13_Node000012_Node000011" title=" " alt="" coords="312,310,246,298,247,292,313,305"/>
+<area shape="poly" id="edge14_Node000012_Node000012" title=" " alt="" coords="410,294,399,287,376,285,356,287,345,292,342,297,348,304,343,307,337,298,341,288,354,282,376,280,400,282,413,289"/>
+</map>

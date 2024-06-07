@@ -1,0 +1,24 @@
+<map id="mpi_utilities_mod::block_task" name="mpi_utilities_mod::block_task">
+<area shape="rect" id="Node000001" title="block by reading a named pipe file until some other task writes a string into it. this ensures the ta..." alt="" coords="5,71,136,111"/>
+<area shape="rect" id="Node000002" href="$namespaceutilities__mod.html#a12b6bcff9ee2f6b821e7a01543fb0dfa" title="write to log and/or standard output, messages, warnings, debug, errors" alt="" coords="363,71,491,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,67,183,56,249,50,314,56,350,64,349,69,314,62,249,56,184,62,134,73"/>
+<area shape="rect" id="Node000006" href="$namespacempi__utilities__mod.html#a3830a5276fa6c01e95f31ef8ad53fef1" title="Use the system() command to execute a command string. Will wait for the command to complete and retur..." alt="" coords="184,160,314,201"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="114,110,194,150,192,155,112,114"/>
+<area shape="rect" id="Node000010" href="$namespacempi__utilities__mod.html#a19228477ddb48773bf4fb3858c997d82" title="Synchronize all tasks. This subroutine does not return until all tasks execute this line of code." alt="" coords="184,71,314,111"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="136,88,168,88,168,94,136,94"/>
+<area shape="rect" id="Node000003" href="$namespaceutilities__mod.html#a9e688ceaa3cb2caac0a21dcf687d21d6" title="call this routine if you find an error before the logfile has been opened." alt="" coords="543,5,671,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="484,68,534,49,536,54,486,73"/>
+<area shape="rect" id="Node000004" href="$namespaceutilities__mod.html#a19b014d0d1c69eb19cb8e2b5454fb428" title="call this routine if you end up in a function or subroutine here that CANNOT be called before the ini..." alt="" coords="543,71,671,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="492,88,528,88,528,94,492,94"/>
+<area shape="rect" id="Node000005" href="$namespaceutilities__mod.html#a54f5adeb1920ae3e09826e1feeb09138" title="if trying to write an unformatted string, like &quot;write(*,*)&quot; to both standard output and the logfile,..." alt="" coords="540,136,674,161"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="493,109,551,128,549,133,491,114"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="290,157,370,116,373,121,293,162"/>
+<area shape="poly" id="edge8_Node000006_Node000006" title=" " alt="" coords="215,160,213,150,219,141,231,135,249,133,268,136,280,142,277,147,267,141,249,139,232,141,222,145,218,151,220,159"/>
+<area shape="rect" id="Node000007" href="$namespacempi__utilities__mod.html#a7be71c4be41ac0c517b25519d690ff31" title="wrapper so you only have to make this work in a single place &#39;shell_name&#39; is a namelist item and norm..." alt="" coords="362,148,492,189"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="314,173,346,171,346,176,315,179"/>
+<area shape="rect" id="Node000008" href="$status_8f.html#ad8a3d1b45f0635666e1570308968da0d" title=" " alt="" coords="399,213,456,239"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="315,194,384,212,383,217,314,200"/>
+<area shape="rect" id="Node000009" href="$bort_8f.html#adc4659c5e9171f22248cf61e054ddd17" title=" " alt="" coords="585,213,629,239"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="456,223,570,223,570,228,456,228"/>
+<area shape="poly" id="edge12_Node000010_Node000002" title=" " alt="" coords="315,88,347,88,347,94,315,94"/>
+</map>

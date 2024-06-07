@@ -1,0 +1,14 @@
+<map id="mpi_utilities_mod::broadcast_minmax" name="mpi_utilities_mod::broadcast_minmax">
+<area shape="rect" id="Node000001" title="Find min and max of each element of an array, put the result on every task. Overwrites arrays min_var..." alt="" coords="5,116,137,157"/>
+<area shape="rect" id="Node000002" href="$namespaceutilities__mod.html#a12b6bcff9ee2f6b821e7a01543fb0dfa" title="write to log and/or standard output, messages, warnings, debug, errors" alt="" coords="190,71,319,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,118,175,108,176,113,138,123"/>
+<area shape="rect" id="Node000006" href="$namespacempi__utilities__mod.html#adc06ffeb863472ff64785cbd82cc36d7" title="return our communicator" alt="" coords="185,160,324,201"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="138,150,170,157,169,163,136,155"/>
+<area shape="rect" id="Node000003" href="$namespaceutilities__mod.html#a9e688ceaa3cb2caac0a21dcf687d21d6" title="call this routine if you find an error before the logfile has been opened." alt="" coords="375,5,502,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="313,68,364,49,366,54,315,73"/>
+<area shape="rect" id="Node000004" href="$namespaceutilities__mod.html#a19b014d0d1c69eb19cb8e2b5454fb428" title="call this routine if you end up in a function or subroutine here that CANNOT be called before the ini..." alt="" coords="375,71,502,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="319,88,359,88,359,94,319,94"/>
+<area shape="rect" id="Node000005" href="$namespaceutilities__mod.html#a54f5adeb1920ae3e09826e1feeb09138" title="if trying to write an unformatted string, like &quot;write(*,*)&quot; to both standard output and the logfile,..." alt="" coords="372,136,505,161"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="319,108,381,128,380,133,318,113"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="219,160,218,150,223,141,236,135,254,133,274,136,286,142,284,147,273,141,254,139,237,141,227,145,223,151,224,159"/>
+</map>
