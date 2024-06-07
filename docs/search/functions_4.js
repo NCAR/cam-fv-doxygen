@@ -55,7 +55,7 @@ var searchData=
   ['delete_5fseq_5fhead_52',['delete_seq_head',['../namespaceobs__sequence__mod.html#a2b5fc4db58ccaae0b5804d4e77e721f4',1,'obs_sequence_mod']]],
   ['delete_5fseq_5ftail_53',['delete_seq_tail',['../namespaceobs__sequence__mod.html#a2e39be37600163c6a933b87aa1dcb367',1,'obs_sequence_mod']]],
   ['destroy_5fobs_54',['destroy_obs',['../namespaceobs__sequence__mod.html#a31c6f2a944a254a1a8d5c817d2c69cc5',1,'obs_sequence_mod']]],
-  ['destroy_5fobs_5fdef_55',['destroy_obs_def',['../namespaceobs__def__mod.html#a5ce3b6b34b0fe5f9c3049aeaa4b3ebd8',1,'obs_def_mod']]],
+  ['destroy_5fobs_5fdef_55',['destroy_obs_def',['../namespaceobs__def__mod.html#af7f007242649ce3cfeab4761dd10f43b',1,'obs_def_mod']]],
   ['destroy_5fobs_5fsequence_56',['destroy_obs_sequence',['../namespaceobs__sequence__mod.html#a04453c924b6c433af2d05c3260432f5a',1,'obs_sequence_mod']]],
   ['destroy_5fselections_57',['destroy_selections',['../obs__selection_8f90.html#afeeab3728778268324de2f83b2821727',1,'obs_selection.f90']]],
   ['destroy_5fvoxels_58',['destroy_voxels',['../obs__seq__coverage_8f90.html#a7d39327763191e27141851feb932d1f2',1,'destroy_voxels(myvoxels):&#160;obs_seq_coverage.f90'],['../obs__seq__verify_8f90.html#aa49583a2bb5a4a010e5a82c6a1ba0d28',1,'destroy_voxels():&#160;obs_seq_verify.f90']]],
