@@ -1,0 +1,43 @@
+<map id="create_output_file" name="create_output_file">
+<area shape="rect" id="Node000001" title="create a new netcdf file and add some global attributes" alt="" coords="5,64,130,90"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="37,65,32,56,35,46,47,40,68,38,89,40,100,47,98,51,87,45,67,43,49,45,39,50,37,55,42,63"/>
+<area shape="rect" id="Node000002" href="$namespacenetcdf__utilities__mod.html#ab84e952e7df4fd6a0770e9fca314b932" title="check return code from previous call. on error, print and stop. if you want to continue after an erro..." alt="" coords="556,209,694,250"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="89,61,129,41,177,24,273,6,313,3,351,5,388,11,426,24,466,44,510,71,542,98,570,130,610,193,605,196,566,133,539,102,507,75,463,49,424,29,387,17,351,10,313,8,273,11,178,29,131,46,92,66"/>
+<area shape="rect" id="Node000008" href="$gen__sampling__err__table_8f90.html#a5c175e6307a097ad03203c7278b1ebc2" title="set a global character attribute" alt="" coords="178,39,312,65"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="130,66,162,61,163,66,130,71"/>
+<area shape="rect" id="Node000009" href="$gen__sampling__err__table_8f90.html#a830ec64176affb73cf50d82e36225971" title="set a global integer attribute" alt="" coords="183,90,307,115"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="130,83,168,89,167,94,130,89"/>
+<area shape="rect" id="Node000010" href="$gen__sampling__err__table_8f90.html#af9cf150ab23d9a4363cc3121c7465cfe" title="define 2 dims and 4 arrays in output file" alt="" coords="185,264,305,290"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="82,89,224,251,220,254,78,92"/>
+<area shape="rect" id="Node000003" href="$namespaceutilities__mod.html#a12b6bcff9ee2f6b821e7a01543fb0dfa" title="write to log and/or standard output, messages, warnings, debug, errors" alt="" coords="748,176,876,216"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="693,214,732,207,733,213,694,220"/>
+<area shape="rect" id="Node000007" href="$namespacenetcdf__utilities__mod.html#ad1aed8fb433368a14c78e5dd6102687f" title="look up and return the filename for this handle" alt="" coords="742,241,882,282"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="694,238,726,244,726,249,693,244"/>
+<area shape="rect" id="Node000004" href="$namespaceutilities__mod.html#a9e688ceaa3cb2caac0a21dcf687d21d6" title="call this routine if you find an error before the logfile has been opened." alt="" coords="933,110,1060,151"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="870,173,922,154,924,159,872,178"/>
+<area shape="rect" id="Node000005" href="$namespaceutilities__mod.html#a19b014d0d1c69eb19cb8e2b5454fb428" title="call this routine if you end up in a function or subroutine here that CANNOT be called before the ini..." alt="" coords="933,176,1060,216"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="876,193,918,193,918,199,876,199"/>
+<area shape="rect" id="Node000006" href="$namespaceutilities__mod.html#a54f5adeb1920ae3e09826e1feeb09138" title="if trying to write an unformatted string, like &quot;write(*,*)&quot; to both standard output and the logfile,..." alt="" coords="930,240,1063,266"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="877,213,939,233,938,238,876,218"/>
+<area shape="poly" id="edge9_Node000008_Node000002" title=" " alt="" coords="313,56,409,74,461,91,510,114,537,131,561,152,601,195,597,199,558,156,533,136,507,118,459,96,407,80,312,61"/>
+<area shape="poly" id="edge11_Node000009_Node000002" title=" " alt="" coords="307,105,404,120,457,133,509,151,551,172,588,197,585,201,548,177,507,156,456,138,403,125,306,110"/>
+<area shape="poly" id="edge13_Node000010_Node000002" title=" " alt="" coords="254,262,295,217,325,194,359,176,400,164,433,162,509,176,543,186,574,199,572,204,541,191,508,181,433,167,401,170,361,181,328,198,299,221,258,266"/>
+<area shape="rect" id="Node000011" href="$gen__sampling__err__table_8f90.html#ad5a58cdb1f42384c015d3846ac278a4e" title="set a character attribute on a variable" alt="" coords="375,191,493,217"/>
+<area shape="poly" id="edge14_Node000010_Node000011" title=" " alt="" coords="274,261,359,225,375,220,377,225,361,230,276,266"/>
+<area shape="rect" id="Node000012" href="$gen__sampling__err__table_8f90.html#a1bc25b36fce286f98516611981fff364" title="given a netCDF file ID, variable name, and 2 dimension IDs, create a 2d integer variable" alt="" coords="367,240,501,266"/>
+<area shape="poly" id="edge16_Node000010_Node000012" title=" " alt="" coords="305,267,351,261,352,266,306,272"/>
+<area shape="rect" id="Node000013" href="$gen__sampling__err__table_8f90.html#a0407b551806f7d2f8d9c952da758cc2b" title="given a netCDF file ID, variable name, and a dimension ID, create an integer variable" alt="" coords="360,290,508,315"/>
+<area shape="poly" id="edge18_Node000010_Node000013" title=" " alt="" coords="306,283,345,288,344,293,305,288"/>
+<area shape="rect" id="Node000014" href="$gen__sampling__err__table_8f90.html#aee9e2336d52bb6e47a96f70d8e08a2e4" title="given a netCDF file ID, variable name, and 2 dimension IDs, create a 2D real variable" alt="" coords="364,339,505,365"/>
+<area shape="poly" id="edge20_Node000010_Node000014" title=" " alt="" coords="275,288,361,325,377,331,375,336,359,330,273,293"/>
+<area shape="rect" id="Node000015" href="$gen__sampling__err__table_8f90.html#a02f39380992ec964421acfdba55f4f09" title="define a dimension with name and a length and return the id" alt="" coords="380,388,489,414"/>
+<area shape="poly" id="edge22_Node000010_Node000015" title=" " alt="" coords="260,289,302,331,331,354,361,375,370,380,368,384,359,380,327,359,299,335,256,292"/>
+<area shape="rect" id="Node000016" href="$gen__sampling__err__table_8f90.html#afe7b2760cb386ac11e00f7f6d2ee16a4" title="define an unlimited dimension and return the id" alt="" coords="364,438,504,463"/>
+<area shape="poly" id="edge24_Node000010_Node000016" title=" " alt="" coords="255,289,294,354,325,392,362,424,367,428,364,432,358,429,321,395,290,357,250,292"/>
+<area shape="poly" id="edge15_Node000011_Node000002" title=" " alt="" coords="494,209,541,215,540,221,493,214"/>
+<area shape="poly" id="edge17_Node000012_Node000002" title=" " alt="" coords="502,242,541,237,541,242,502,247"/>
+<area shape="poly" id="edge19_Node000013_Node000002" title=" " alt="" coords="478,287,507,276,563,254,565,258,509,281,479,292"/>
+<area shape="poly" id="edge21_Node000014_Node000002" title=" " alt="" coords="484,336,507,326,553,293,592,259,596,263,556,298,510,330,486,341"/>
+<area shape="poly" id="edge23_Node000015_Node000002" title=" " alt="" coords="487,386,507,375,537,350,563,320,603,262,607,265,567,323,541,353,510,379,490,390"/>
+<area shape="poly" id="edge25_Node000016_Node000002" title=" " alt="" coords="490,435,507,424,543,387,572,344,594,301,610,263,615,265,599,303,576,347,547,391,510,429,492,439"/>
+</map>
