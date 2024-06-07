@@ -1,0 +1,92 @@
+<map id="ensemble_manager_mod::get_allow_transpose" name="ensemble_manager_mod::get_allow_transpose">
+<area shape="rect" id="Node000001" title="accessor function" alt="" coords="2455,335,2621,375"/>
+<area shape="poly" id="edge4_Node000001_Node000001" title=" " alt="" coords="2573,321,2560,316,2538,313,2518,315,2505,320,2501,326,2503,333,2498,335,2496,325,2502,316,2517,310,2538,308,2561,310,2575,317"/>
+<area shape="rect" id="Node000002" href="$group__window.html#gab8076b1f30295f9b1f6688912a524349" title="Create the window for the ensemble complete state vector I think you have to pass it the state ensemb..." alt="" coords="2253,171,2395,211"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2509,325,2464,275,2405,227,2383,214,2386,210,2409,222,2467,271,2513,321"/>
+<area shape="rect" id="Node000003" href="$group__window.html#ga63c5d8fccbcee23e414d38733de282e9" title="Free the mpi window." alt="" coords="2241,236,2407,277"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="2483,330,2406,292,2377,280,2379,275,2408,287,2485,325"/>
+<area shape="rect" id="Node000004" href="$group__window.html#gadb56aa9a192582aee833ae41cea81ec4" title="End epoch of state access. Need to transpose qc and fwd operator back to copy complete." alt="" coords="2242,301,2406,342"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="2439,342,2406,337,2406,332,2440,337"/>
+<area shape="rect" id="Node000005" href="$group__distrib__state.html#gac96ccda86334fcce985e15b8e284b776" title="Gets all copies of an element of the state vector from the process who owns it Assumes ensemble compl..." alt="" coords="2249,432,2399,473"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="2484,385,2408,421,2379,434,2377,429,2406,417,2482,380"/>
+<area shape="rect" id="Node000008" href="$namespaceforward__operator__mod.html#af35dca4b85910d40d7a83747b059600b" title="Subroutine get_obs_ens_distrib_state." alt="" coords="1553,525,1734,566"/>
+<area shape="poly" id="edge53_Node000001_Node000008" title=" " alt="" coords="2517,390,2471,442,2441,467,2408,487,2321,520,2229,544,2135,560,2042,568,1953,571,1870,570,1734,560,1734,555,1870,565,1953,566,2042,563,2134,554,2227,539,2319,515,2406,482,2438,463,2467,438,2513,386"/>
+<area shape="rect" id="Node000037" href="$group__distrib__state.html#ga9ea7a9c65f91120fd126af208c14d379" title="Gets all copies of an element of the state vector from the process who owns it Assumes ensemble compl..." alt="" coords="2249,367,2399,407"/>
+<area shape="poly" id="edge51_Node000001_Node000037" title=" " alt="" coords="2440,372,2400,378,2399,373,2439,367"/>
+<area shape="rect" id="Node000006" href="$group__distrib__state.html#ga0ac873d8cae52e2d5cb7e5a5b5d23286" title="Gets all copies of an element of the state vector from the process who owns it Assumes ensemble compl..." alt="" coords="2043,367,2193,407"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="2242,429,2184,411,2185,405,2244,424"/>
+<area shape="rect" id="Node000007" href="$namespaceforward__operator__mod.html#ab91aef0208946560992d4688283b20dc" title="Subroutine get_expected_obs_distrib_state." alt="" coords="1782,436,1995,477"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="2034,415,1959,438,1958,433,2033,410"/>
+<area shape="rect" id="Node000013" href="$namespacedistributed__state__mod.html#a8a7487e144756be8c3dfed3730dc2e12" title="Gets all copies of an element of the state vector from the process who owns it Assumes ensemble compl..." alt="" coords="1814,136,1963,177"/>
+<area shape="poly" id="edge14_Node000006_Node000013" title=" " alt="" coords="2102,353,2085,315,2061,272,2031,229,1994,192,1962,174,1965,170,1997,188,2035,225,2066,269,2090,313,2107,351"/>
+<area shape="rect" id="Node000014" href="$namespacemodel__mod.html#ad32bf95cddce1f6663e1c1b461974db0" title="this routine converts the 3 index values and a quantity into a state vector offset and gets the ensem..." alt="" coords="1809,201,1968,242"/>
+<area shape="poly" id="edge15_Node000006_Node000014" title=" " alt="" coords="2074,359,1917,245,1920,240,2077,355"/>
+<area shape="rect" id="Node000035" href="$namespacemodel__mod.html#af20803e747bde3ed19ba83014392e49b" title="this routine takes care of getting the actual state values. get_state() communicates with other MPI t..." alt="" coords="1112,373,1271,414"/>
+<area shape="poly" id="edge47_Node000006_Node000035" title=" " alt="" coords="2028,390,1271,396,1271,390,2028,385"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="1817,485,1703,527,1701,522,1815,480"/>
+<area shape="rect" id="Node000011" href="$perfect__model__obs_8f90.html#a58753874ca7dcb34421e47b0b8aab056" title=" " alt="" coords="1595,425,1692,451"/>
+<area shape="poly" id="edge11_Node000007_Node000011" title=" " alt="" coords="1766,450,1691,444,1692,439,1767,444"/>
+<area shape="rect" id="Node000012" href="$perfect__model__obs_8f90.html#ace838a670d33ed820e1afa9c1965cbf4" title="Program to build an obs_sequence file from simulated observations." alt="" coords="1350,450,1481,476"/>
+<area shape="poly" id="edge13_Node000007_Node000012" title=" " alt="" coords="1766,465,1734,466,1481,466,1481,461,1734,460,1766,459"/>
+<area shape="rect" id="Node000009" href="$namespacefilter__mod.html#ab534c6a0fba7c3dc09e5e1d7d4081725" title="The code does not use vars arrays except:" alt="" coords="1342,533,1489,559"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="1537,548,1489,548,1489,543,1537,543"/>
+<area shape="rect" id="Node000010" href="$filter_8f90.html#a3e86f9737a8d44a69560730870a3b5f4" title="Main DART Ensemble Filtering Program." alt="" coords="1168,533,1214,559"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="1327,548,1215,548,1215,543,1327,543"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="1580,447,1482,458,1481,453,1580,442"/>
+<area shape="rect" id="Node000015" href="$namespacemodel__mod.html#a0ecafe6aeaa52882e24a5ba9c5836dc5" title="this routine should be called to compute a value that comes from an unstaggered grid but needs to cor..." alt="" coords="1554,201,1733,242"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="1794,224,1733,224,1733,219,1794,219"/>
+<area shape="rect" id="Node000031" href="$namespacemodel__mod.html#a0b4be0e31c2a44ccf8e93dd04e575cb9" title=" " alt="" coords="1104,5,1278,46"/>
+<area shape="poly" id="edge45_Node000014_Node000031" title=" " alt="" coords="1794,199,1780,190,1763,169,1756,148,1749,127,1732,108,1680,74,1622,50,1561,32,1499,21,1438,15,1380,13,1279,17,1279,12,1380,7,1439,9,1500,15,1563,27,1624,45,1682,70,1736,104,1753,124,1761,146,1768,167,1784,186,1797,195"/>
+<area shape="rect" id="Node000032" href="$namespacemodel__mod.html#aa08cfe2c09319a158f2d12474aa5ab87" title=" " alt="" coords="1104,71,1278,111"/>
+<area shape="poly" id="edge46_Node000014_Node000032" title=" " alt="" coords="1803,199,1781,191,1703,156,1644,123,1585,93,1548,81,1504,70,1446,62,1387,62,1330,66,1279,74,1278,69,1330,61,1387,56,1447,57,1505,64,1550,76,1587,88,1647,118,1705,151,1783,186,1805,194"/>
+<area shape="rect" id="Node000016" href="$namespacemodel__mod.html#ad9522458f0a71cf9b41f55ebf38d6e53" title="Compute the heights at pressure midpoints." alt="" coords="1110,201,1273,242"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="1539,224,1273,224,1273,219,1539,219"/>
+<area shape="rect" id="Node000017" href="$namespacemodel__mod.html#a4b5d6b535e353f9049f718da0bdc5da4" title="given a lon/lat index number, a quantity and a vertical value and type, return which two levels these..." alt="" coords="886,259,1052,299"/>
+<area shape="poly" id="edge44_Node000015_Node000017" title=" " alt="" coords="1609,254,1562,287,1535,302,1505,314,1445,328,1382,335,1319,337,1257,335,1141,321,1047,303,1048,297,1142,316,1257,330,1319,332,1382,330,1444,322,1504,308,1532,297,1560,283,1606,250"/>
+<area shape="rect" id="Node000028" href="$namespacemodel__mod.html#ae6b0e8410502d39df5c892a5cc65fd03" title="Compute the pressure values at midpoint levels." alt="" coords="1326,79,1505,119"/>
+<area shape="poly" id="edge32_Node000015_Node000028" title=" " alt="" coords="1600,194,1555,164,1503,135,1476,122,1478,117,1506,130,1557,160,1603,190"/>
+<area shape="rect" id="Node000033" href="$namespacemodel__mod.html#a791cd2fe52a51c92b52d8c23b81981c2" title="loop through all levels to get the mean mass." alt="" coords="1342,259,1489,299"/>
+<area shape="poly" id="edge40_Node000015_Node000033" title=" " alt="" coords="1546,249,1490,263,1488,258,1545,244"/>
+<area shape="rect" id="Node000034" href="$namespacemodel__mod.html#a4aec9c96852d91f4eee770f9f04e9f67" title="Compute the virtual temperature at the midpoints." alt="" coords="1342,144,1489,185"/>
+<area shape="poly" id="edge42_Node000015_Node000034" title=" " alt="" coords="1545,200,1488,185,1490,180,1546,195"/>
+<area shape="poly" id="edge18_Node000016_Node000017" title=" " alt="" coords="1096,249,1051,261,1050,255,1094,244"/>
+<area shape="rect" id="Node000026" href="$namespacemodel__mod.html#a3262d9b789e4497a795ca7590c2562f6" title=" " alt="" coords="882,128,1056,169"/>
+<area shape="poly" id="edge30_Node000016_Node000026" title=" " alt="" coords="1112,199,1032,172,1034,167,1114,194"/>
+<area shape="rect" id="Node000018" href="$namespacemodel__mod.html#a42bfebdb46efad29a4eef461d368d99e" title=" " alt="" coords="653,294,834,320"/>
+<area shape="poly" id="edge19_Node000017_Node000018" title=" " alt="" coords="871,294,835,298,834,293,870,289"/>
+<area shape="rect" id="Node000019" href="$namespacemodel__mod.html#a0f19b5fc92a9d6f18bff5d3944add0c7" title="internal only version of model interpolate. does not check for locations too high &#45; return all actual..." alt="" coords="428,257,584,298"/>
+<area shape="poly" id="edge20_Node000018_Node000019" title=" " alt="" coords="638,297,584,290,585,285,638,291"/>
+<area shape="rect" id="Node000025" href="$namespacemodel__mod.html#ab67a2b7e3101f248a161c354a6551967" title="Model interpolate will interpolate any DART state variable to the given location." alt="" coords="407,322,605,348"/>
+<area shape="poly" id="edge29_Node000018_Node000025" title=" " alt="" coords="638,322,606,326,605,321,637,317"/>
+<area shape="rect" id="Node000020" href="$namespacemodel__mod.html#ad1ccc40900e25e7a1c9f25a665e5acbc" title=" " alt="" coords="193,159,359,199"/>
+<area shape="poly" id="edge21_Node000019_Node000020" title=" " alt="" coords="445,253,358,215,328,202,330,197,360,210,447,248"/>
+<area shape="rect" id="Node000022" href="$namespacemodel__mod.html#acd9d8bee512a81800221d0a0e240c61e" title=" " alt="" coords="193,224,359,265"/>
+<area shape="poly" id="edge23_Node000019_Node000022" title=" " alt="" coords="412,267,359,259,360,254,413,262"/>
+<area shape="rect" id="Node000023" href="$namespacemodel__mod.html#a2667e8e4b81e84afed80d586c86b601e" title=" " alt="" coords="193,289,359,330"/>
+<area shape="poly" id="edge25_Node000019_Node000023" title=" " alt="" coords="413,293,360,301,359,295,412,288"/>
+<area shape="rect" id="Node000024" href="$namespacemodel__mod.html#a654c5b099c998dab182184e959596501" title=" " alt="" coords="193,355,359,395"/>
+<area shape="poly" id="edge27_Node000019_Node000024" title=" " alt="" coords="421,306,408,312,384,328,360,344,334,356,332,352,358,339,381,323,406,307,418,302"/>
+<area shape="rect" id="Node000021" href="$namespacemodel__mod.html#afc3f75e61e44f483488ca0adc07a6791" title=" " alt="" coords="5,257,145,298"/>
+<area shape="poly" id="edge22_Node000020_Node000021" title=" " alt="" coords="207,208,194,215,112,259,110,254,191,210,205,204"/>
+<area shape="poly" id="edge24_Node000022_Node000021" title=" " alt="" coords="178,263,145,269,144,264,177,258"/>
+<area shape="poly" id="edge26_Node000023_Node000021" title=" " alt="" coords="177,297,144,291,145,286,178,291"/>
+<area shape="poly" id="edge28_Node000024_Node000021" title=" " alt="" coords="205,350,191,344,111,301,113,296,194,339,207,346"/>
+<area shape="rect" id="Node000027" href="$namespacemodel__mod.html#af0c304480ec289a4850ef44352b0717d" title="This subroutine computes converts vertical state." alt="" coords="674,71,813,111"/>
+<area shape="poly" id="edge31_Node000026_Node000027" title=" " alt="" coords="871,126,813,111,814,106,872,121"/>
+<area shape="rect" id="Node000029" href="$namespacemodel__mod.html#a9e314886f7eed22ca4e591760a5423eb" title="this is just for 3d fields" alt="" coords="1112,136,1271,177"/>
+<area shape="poly" id="edge33_Node000028_Node000029" title=" " alt="" coords="1320,126,1272,139,1271,133,1318,121"/>
+<area shape="poly" id="edge36_Node000028_Node000031" title=" " alt="" coords="1336,76,1255,49,1257,44,1338,71"/>
+<area shape="poly" id="edge38_Node000028_Node000032" title=" " alt="" coords="1311,98,1279,97,1279,91,1311,93"/>
+<area shape="rect" id="Node000030" href="$namespacemodel__mod.html#ac2f8aaed0ac69d87932deae80f621145" title=" " alt="" coords="897,193,1041,234"/>
+<area shape="poly" id="edge34_Node000029_Node000030" title=" " alt="" coords="1097,183,1042,198,1040,193,1096,178"/>
+<area shape="poly" id="edge35_Node000030_Node000018" title=" " alt="" coords="899,243,883,249,776,296,774,291,881,245,897,238"/>
+<area shape="poly" id="edge37_Node000031_Node000027" title=" " alt="" coords="1089,43,814,84,813,78,1088,38"/>
+<area shape="poly" id="edge39_Node000032_Node000027" title=" " alt="" coords="1088,94,814,94,814,88,1088,88"/>
+<area shape="poly" id="edge41_Node000033_Node000016" title=" " alt="" coords="1327,259,1273,245,1274,240,1328,254"/>
+<area shape="poly" id="edge43_Node000034_Node000016" title=" " alt="" coords="1328,189,1274,203,1273,198,1327,184"/>
+<area shape="poly" id="edge50_Node000035_Node000018" title=" " alt="" coords="1096,373,1055,364,829,323,830,318,1057,359,1097,368"/>
+<area shape="rect" id="Node000036" href="$namespacemodel__mod.html#ad7b88b98e3eeedeb97fb73c424718f4e" title=" " alt="" coords="897,373,1041,414"/>
+<area shape="poly" id="edge48_Node000035_Node000036" title=" " alt="" coords="1096,396,1041,396,1041,391,1096,391"/>
+<area shape="poly" id="edge49_Node000036_Node000018" title=" " alt="" coords="898,370,778,323,780,318,900,365"/>
+<area shape="poly" id="edge52_Node000037_Node000006" title=" " alt="" coords="2234,390,2193,390,2193,384,2234,384"/>
+</map>
